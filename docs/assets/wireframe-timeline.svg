@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="1440" height="900" fill="#F7F4EE"/>
+  <text x="32" y="28" font-size="12" fill="#9A948C">线框图 · 时间轴页 /timeline · 桌面 1440</text>
+
+  <!-- Header -->
+  <rect x="0" y="44" width="1440" height="56" fill="#FFFDF9"/>
+  <line x1="0" y1="100" x2="1440" y2="100" stroke="#D9D2C5"/>
+  <text x="32" y="80" font-size="18" font-weight="700" fill="#1A1A1A">ACG 人物画风 1996–2026</text>
+  <text x="1140" y="79" font-size="14" fill="#1A1A1A">时间轴</text>
+  <text x="1220" y="79" font-size="14" fill="#6B6560">时期</text>
+  <text x="1296" y="79" font-size="14" fill="#6B6560">方法</text>
+
+  <!-- 期色带 -->
+  <g>
+    <rect x="32" y="112" width="176" height="8" fill="#3A5A7A" opacity="0.85"/>
+    <rect x="208" y="112" width="220" height="8" fill="#D2694F" opacity="0.85"/>
+    <rect x="428" y="112" width="220" height="8" fill="#4E9E86" opacity="0.85"/>
+    <rect x="648" y="112" width="220" height="8" fill="#B23A6B" opacity="0.85"/>
+    <rect x="868" y="112" width="220" height="8" fill="#4B3F7A" opacity="0.85"/>
+    <rect x="1088" y="112" width="304" height="8" fill="#2B6E6B" opacity="0.85"/>
+  </g>
+  <g font-size="11" fill="#6B6560" font-family="monospace">
+    <text x="32" y="140">P1 1996–1999</text>
+    <text x="208" y="140">P2 2000–2004</text>
+    <text x="428" y="140">P3 2005–2009</text>
+    <text x="648" y="140">P4 2010–2014</text>
+    <text x="868" y="140">P5 2015–2019</text>
+    <text x="1088" y="140">P6 2020–2026</text>
+  </g>
+
+  <!-- 四张卡片 -->
+  <g>
+    <rect x="32" y="168" width="326" height="432" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <rect x="32" y="168" width="326" height="312" fill="#E8E3D9"/>
+    <text x="195" y="330" font-size="11" fill="#9A948C" text-anchor="middle">3:4 主图（懒加载 + LQIP）</text>
+    <text x="52" y="502" font-size="11" fill="#6B6560" font-family="monospace">动画 · 2012</text>
+    <text x="52" y="528" font-size="18" font-weight="700" fill="#1A1A1A">冰菓</text>
+    <text x="52" y="552" font-size="12" fill="#6B6560">京都动画 · 西屋太志</text>
+    <text x="52" y="574" font-size="13" fill="#1A1A1A">「信息量」的分水岭</text>
+
+    <rect x="382" y="168" width="326" height="432" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <rect x="382" y="168" width="326" height="312" fill="#E8E3D9"/>
+    <text x="545" y="330" font-size="11" fill="#9A948C" text-anchor="middle">主图</text>
+    <text x="402" y="502" font-size="11" fill="#6B6560" font-family="monospace">动画 · 2012</text>
+    <text x="402" y="528" font-size="18" font-weight="700" fill="#1A1A1A">刀剑神域</text>
+    <text x="402" y="552" font-size="12" fill="#6B6560">A-1 Pictures · 足立慎吾</text>
+    <text x="402" y="574" font-size="13" fill="#1A1A1A">游戏感的皮肤与材质</text>
+
+    <rect x="732" y="168" width="326" height="432" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <rect x="732" y="168" width="326" height="312" fill="#E8E3D9"/>
+    <text x="895" y="330" font-size="11" fill="#9A948C" text-anchor="middle">主图</text>
+    <text x="752" y="502" font-size="11" fill="#6B6560" font-family="monospace">动画 · 2012</text>
+    <text x="752" y="528" font-size="18" font-weight="700" fill="#1A1A1A">中二病也要谈恋爱</text>
+    <text x="752" y="552" font-size="12" fill="#6B6560">京都动画 · 池田和美</text>
+    <text x="752" y="574" font-size="13" fill="#1A1A1A">同门七年，脸更圆更软</text>
+
+    <rect x="1082" y="168" width="326" height="432" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <rect x="1082" y="168" width="326" height="312" fill="#E8E3D9"/>
+    <text x="1245" y="330" font-size="11" fill="#9A948C" text-anchor="middle">主图</text>
+    <text x="1102" y="502" font-size="11" fill="#6B6560" font-family="monospace">漫画 · 2012</text>
+    <text x="1102" y="528" font-size="18" font-weight="700" fill="#1A1A1A">排球少年</text>
+    <text x="1102" y="552" font-size="12" fill="#6B6560">古舘春一</text>
+    <text x="1102" y="574" font-size="13" fill="#1A1A1A">线条强度与身体透视</text>
+  </g>
+
+  <!-- 轴 -->
+  <line x1="32" y1="660" x2="1320" y2="660" stroke="#B8AE9C"/>
+  <g stroke="#B8AE9C">
+    <g>
+      <line x1="48" y1="660" x2="48" y2="672"/>
+      <line x1="90" y1="660" x2="90" y2="668"/>
+      <line x1="132" y1="660" x2="132" y2="668"/>
+      <line x1="174" y1="660" x2="174" y2="668"/>
+      <line x1="216" y1="660" x2="216" y2="668"/>
+      <line x1="258" y1="660" x2="258" y2="668"/>
+      <line x1="300" y1="660" x2="300" y2="668"/>
+      <line x1="342" y1="660" x2="342" y2="668"/>
+      <line x1="384" y1="660" x2="384" y2="668"/>
+      <line x1="426" y1="660" x2="426" y2="668"/>
+      <line x1="468" y1="660" x2="468" y2="672"/>
+      <line x1="510" y1="660" x2="510" y2="668"/>
+      <line x1="552" y1="660" x2="552" y2="668"/>
+      <line x1="594" y1="660" x2="594" y2="668"/>
+      <line x1="636" y1="660" x2="636" y2="668"/>
+      <line x1="678" y1="660" x2="678" y2="668"/>
+      <line x1="720" y1="660" x2="720" y2="668"/>
+      <line x1="762" y1="660" x2="762" y2="668"/>
+      <line x1="804" y1="660" x2="804" y2="668"/>
+      <line x1="846" y1="660" x2="846" y2="668"/>
+      <line x1="888" y1="660" x2="888" y2="672"/>
+      <line x1="930" y1="660" x2="930" y2="668"/>
+      <line x1="972" y1="660" x2="972" y2="668"/>
+      <line x1="1014" y1="660" x2="1014" y2="668"/>
+      <line x1="1056" y1="660" x2="1056" y2="668"/>
+      <line x1="1098" y1="660" x2="1098" y2="668"/>
+      <line x1="1140" y1="660" x2="1140" y2="668"/>
+      <line x1="1182" y1="660" x2="1182" y2="668"/>
+      <line x1="1224" y1="660" x2="1224" y2="668"/>
+      <line x1="1266" y1="660" x2="1266" y2="668"/>
+      <line x1="1308" y1="660" x2="1308" y2="672"/>
+    </g>
+  </g>
+  <g font-size="11" fill="#6B6560" font-family="monospace" text-anchor="middle">
+    <text x="48" y="694">1996</text>
+    <text x="132" y="694">1998</text>
+    <text x="216" y="694">2000</text>
+    <text x="300" y="694">2002</text>
+    <text x="384" y="694">2004</text>
+    <text x="468" y="694">2006</text>
+    <text x="552" y="694">2008</text>
+    <text x="636" y="694">2010</text>
+    <text x="720" y="694">2012</text>
+    <text x="804" y="694">2014</text>
+    <text x="888" y="694">2016</text>
+    <text x="972" y="694">2018</text>
+    <text x="1056" y="694">2020</text>
+    <text x="1140" y="694">2022</text>
+    <text x="1224" y="694">2024</text>
+    <text x="1308" y="694">2026</text>
+  </g>
+
+  <!-- 当前年滑块 -->
+  <line x1="720" y1="646" x2="720" y2="700" stroke="#B23A6B" stroke-width="2"/>
+  <circle cx="720" cy="646" r="4" fill="#B23A6B"/>
+  <text x="736" y="642" font-size="11" fill="#B23A6B" font-family="monospace">2012 已固定</text>
+
+  <!-- 状态条 -->
+  <line x1="0" y1="730" x2="1440" y2="730" stroke="#D9D2C5"/>
+  <text x="32" y="782" font-size="40" font-weight="900" fill="#1A1A1A" font-family="serif">2012</text>
+  <text x="150" y="756" font-size="14" fill="#1A1A1A">信息量爆炸</text>
+  <text x="150" y="778" font-size="12" fill="#6B6560">P4 · 2010–2014</text>
+  <text x="420" y="768" font-size="12" fill="#6B6560">关键词：多重高光 / 肌肤渐变 / 写实化 / 作画监督</text>
+  <text x="1290" y="768" font-size="12" fill="#1A1A1A">✕ 取消固定</text>
+
+  <!-- 交互标注 -->
+  <g font-size="11" fill="#B23A6B" font-family="monospace">
+    <text x="32" y="826">① 悬停 120ms 后切换；卡片 40ms 依次入场（240ms ease）</text>
+    <text x="32" y="848">② 点击年份 = 固定；Esc 取消；←/→ 切换年份；Home/End 跳首尾</text>
+    <text x="32" y="870">③ URL 同步 ?year=2012（replaceState）；卡片图预取当前年 ±1</text>
+  </g>
+</svg>

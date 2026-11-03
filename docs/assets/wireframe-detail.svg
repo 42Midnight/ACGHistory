@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1500" viewBox="0 0 1440 1500" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="1440" height="1500" fill="#F7F4EE"/>
+  <text x="32" y="28" font-size="12" fill="#9A948C">线框图 · 详情页 /works/2012-hyouka · 桌面 1440</text>
+
+  <!-- 放映态 Hero -->
+  <rect x="0" y="44" width="1440" height="520" fill="#0E0F12"/>
+  <text x="700" y="160" font-size="13" fill="#8E8A84" text-anchor="middle">16:9 主图（放映态，图片外留 32px 暗边）</text>
+  <text x="700" y="184" font-size="11" fill="#4A4642" text-anchor="middle">不加水印 · 不加滤镜 · 不裁切签名 · 最长边 1600px</text>
+
+  <!-- 标注热点 -->
+  <g>
+    <circle cx="556" cy="300" r="7" fill="none" stroke="#E8E4DC" stroke-width="1.5"/>
+    <circle cx="556" cy="300" r="2" fill="#E8E4DC"/>
+    <line x1="563" y1="300" x2="630" y2="272" stroke="#E8E4DC" stroke-width="0.5"/>
+    <text x="636" y="268" font-size="11" fill="#E8E4DC">虹膜分四层，边缘一圈冷光</text>
+
+    <circle cx="716" cy="366" r="7" fill="none" stroke="#E8E4DC" stroke-width="1.5"/>
+    <circle cx="716" cy="366" r="2" fill="#E8E4DC"/>
+    <line x1="723" y1="366" x2="790" y2="396" stroke="#E8E4DC" stroke-width="0.5"/>
+    <text x="796" y="400" font-size="11" fill="#E8E4DC">下眼睑极细，视线有落点</text>
+
+    <circle cx="852" cy="316" r="7" fill="none" stroke="#E8E4DC" stroke-width="1.5"/>
+    <circle cx="852" cy="316" r="2" fill="#E8E4DC"/>
+    <line x1="859" y1="316" x2="926" y2="288" stroke="#E8E4DC" stroke-width="0.5"/>
+    <text x="932" y="284" font-size="11" fill="#E8E4DC">鼻尖一小块暖色阴影</text>
+  </g>
+  <text x="1376" y="540" font-size="11" fill="#8E8A84" text-anchor="end" font-family="monospace">© 米澤穂信・角川書店／「氷菓」製作委員会</text>
+
+  <!-- 标题区 -->
+  <text x="32" y="616" font-size="11" fill="#6B6560" font-family="monospace">动画 · 2012 · P4 信息量爆炸 · 眼</text>
+  <text x="32" y="660" font-size="48" font-weight="900" fill="#1A1A1A" font-family="serif">冰菓</text>
+  <text x="180" y="660" font-size="16" fill="#6B6560">氷菓 / Hyouka</text>
+  <text x="32" y="690" font-size="13" fill="#1A1A1A">京都动画 · 监督 武本康弘 · 角色设计 西屋太志</text>
+
+  <!-- 一句话 -->
+  <line x1="32" y1="718" x2="80" y2="718" stroke="#B23A6B" stroke-width="3"/>
+  <text x="32" y="752" font-size="20" fill="#1A1A1A">把京阿尼的脸从「记号」改成「信息」——十年的分水岭。</text>
+
+  <!-- 看什么 -->
+  <text x="32" y="810" font-size="12" fill="#B23A6B" font-family="monospace">看什么</text>
+  <g fill="#D9D2C5">
+    <rect x="32" y="824" width="700" height="10"/>
+    <rect x="32" y="846" width="680" height="10"/>
+    <rect x="32" y="868" width="640" height="10"/>
+  </g>
+
+  <!-- 拆解 -->
+  <text x="32" y="920" font-size="12" fill="#B23A6B" font-family="monospace">拆解</text>
+  <g>
+    <rect x="32" y="936" width="700" height="1" fill="#D9D2C5"/>
+    <text x="32" y="964" font-size="12" fill="#6B6560" font-family="monospace">眼</text>
+    <rect x="72" y="952" width="560" height="10" fill="#D9D2C5"/>
+    <text x="32" y="998" font-size="12" fill="#6B6560" font-family="monospace">色</text>
+    <rect x="72" y="986" width="620" height="10" fill="#D9D2C5"/>
+    <text x="32" y="1032" font-size="12" fill="#6B6560" font-family="monospace">线</text>
+    <rect x="72" y="1020" width="520" height="10" fill="#D9D2C5"/>
+    <rect x="32" y="1052" width="700" height="1" fill="#D9D2C5"/>
+  </g>
+
+  <!-- 为什么是这一年 -->
+  <text x="32" y="1100" font-size="12" fill="#B23A6B" font-family="monospace">为什么是这一年</text>
+  <g fill="#D9D2C5">
+    <rect x="32" y="1114" width="690" height="10"/>
+    <rect x="32" y="1136" width="660" height="10"/>
+  </g>
+
+  <!-- 可延伸 -->
+  <text x="32" y="1186" font-size="12" fill="#B23A6B" font-family="monospace">可延伸</text>
+  <text x="32" y="1212" font-size="13" fill="#1A1A1A">→ 《利兹与青鸟》2018：同一位角色设计，把信息量收回去</text>
+  <text x="32" y="1236" font-size="13" fill="#1A1A1A">→ 《进击的巨人》2013：粗线与厚涂给出的相反答案</text>
+
+  <!-- 与相邻期的差异 -->
+  <text x="32" y="1286" font-size="12" fill="#B23A6B" font-family="monospace">与相邻期的差异</text>
+  <rect x="32" y="1300" width="330" height="80" fill="#FFFDF9" stroke="#D9D2C5"/>
+  <text x="48" y="1326" font-size="11" fill="#6B6560" font-family="monospace">← P3 《轻音少女》2009</text>
+  <text x="48" y="1352" font-size="12" fill="#1A1A1A">最少笔画：鼻口几乎不存在</text>
+  <rect x="380" y="1300" width="352" height="80" fill="#B23A6B" opacity="0.08"/>
+  <text x="396" y="1326" font-size="11" fill="#B23A6B" font-family="monospace">本期 P4</text>
+  <text x="396" y="1352" font-size="12" fill="#1A1A1A">最多信息：虹膜四层</text>
+
+  <!-- 侧栏 -->
+  <line x1="800" y1="780" x2="800" y2="1400" stroke="#D9D2C5"/>
+  <text x="816" y="810" font-size="11" fill="#6B6560" font-family="monospace">维度</text>
+  <g>
+    <rect x="816" y="822" width="52" height="24" rx="12" fill="#B23A6B" opacity="0.12" stroke="#B23A6B"/>
+    <text x="842" y="838" font-size="11" fill="#1A1A1A" text-anchor="middle">眼</text>
+    <rect x="876" y="822" width="52" height="24" rx="12" fill="#B23A6B" opacity="0.12" stroke="#B23A6B"/>
+    <text x="902" y="838" font-size="11" fill="#1A1A1A" text-anchor="middle">色</text>
+    <rect x="936" y="822" width="52" height="24" rx="12" fill="#B23A6B" opacity="0.12" stroke="#B23A6B"/>
+    <text x="962" y="838" font-size="11" fill="#1A1A1A" text-anchor="middle">线</text>
+  </g>
+
+  <text x="816" y="896" font-size="11" fill="#6B6560" font-family="monospace">同年另 3 件</text>
+  <g>
+    <rect x="816" y="908" width="72" height="96" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <text x="852" y="1024" font-size="11" fill="#1A1A1A" text-anchor="middle">刀剑神域</text>
+    <rect x="904" y="908" width="72" height="96" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <text x="940" y="1024" font-size="11" fill="#1A1A1A" text-anchor="middle">中二病</text>
+    <rect x="992" y="908" width="72" height="96" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <text x="1028" y="1024" font-size="11" fill="#1A1A1A" text-anchor="middle">排球少年</text>
+  </g>
+
+  <text x="816" y="1076" font-size="11" fill="#6B6560" font-family="monospace">出处</text>
+  <g fill="#D9D2C5">
+    <rect x="816" y="1088" width="380" height="8"/>
+    <rect x="816" y="1106" width="300" height="8"/>
+  </g>
+
+  <text x="816" y="1160" font-size="11" fill="#6B6560" font-family="monospace">引用说明</text>
+  <g fill="#D9D2C5">
+    <rect x="816" y="1172" width="380" height="8"/>
+    <rect x="816" y="1190" width="360" height="8"/>
+    <rect x="816" y="1208" width="330" height="8"/>
+    <rect x="816" y="1226" width="200" height="8"/>
+  </g>
+
+  <text x="816" y="1290" font-size="11" fill="#6B6560" font-family="monospace">返回</text>
+  <text x="816" y="1316" font-size="13" fill="#1A1A1A">↑ 回到时间轴 · 2012</text>
+  <text x="816" y="1342" font-size="13" fill="#1A1A1A">↑ 回到时期页 · P4</text>
+
+  <!-- 底部导航 -->
+  <line x1="0" y1="1440" x2="1440" y2="1440" stroke="#D9D2C5"/>
+  <text x="32" y="1474" font-size="13" fill="#1A1A1A">← 上一件：我的英雄学院 2016</text>
+  <text x="620" y="1474" font-size="13" fill="#1A1A1A">回到时间轴 · 2012</text>
+  <text x="1376" y="1474" font-size="13" fill="#1A1A1A" text-anchor="end">下一件：进击的巨人 2013 →</text>
+
+  <text x="32" y="1418" font-size="10" fill="#9A948C">Hero 采用放映态（暗底）；滚动到标题区时背景 240ms 渐回纸色</text>
+</svg>

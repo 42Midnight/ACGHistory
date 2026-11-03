@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2180" viewBox="0 0 1440 2180" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="1440" height="2180" fill="#F7F4EE"/>
+  <text x="32" y="28" font-size="12" fill="#9A948C">线框图 · 时期页 /periods/p4 · 桌面 1440</text>
+
+  <!-- Hero -->
+  <rect x="0" y="44" width="1440" height="336" fill="#B23A6B" opacity="0.08"/>
+  <text x="32" y="205" font-size="150" font-weight="900" fill="#B23A6B" font-family="serif">P4</text>
+  <text x="330" y="128" font-size="13" fill="#6B6560" font-family="monospace">PERIOD 04 · 2010–2014</text>
+  <text x="330" y="182" font-size="52" font-weight="900" fill="#1A1A1A" font-family="serif">信息量爆炸</text>
+  <text x="330" y="220" font-size="16" fill="#1A1A1A">瞳的多重高光、肌肤的渐变、「作画」成为话题</text>
+  <text x="330" y="260" font-size="14" fill="#6B6560">关键词：多重高光 / 肌肤渐变 / 写实化 / 作画监督 / 剧场高精细 / 镜头感</text>
+  <rect x="330" y="286" width="520" height="1" fill="#B8AE9C"/>
+
+  <!-- 子导航 -->
+  <rect x="0" y="380" width="1440" height="48" fill="#FFFDF9"/>
+  <line x1="0" y1="428" x2="1440" y2="428" stroke="#D9D2C5"/>
+  <g font-size="13" fill="#1A1A1A">
+    <text x="32" y="410">01 时代条件</text>
+    <text x="164" y="410">02 主流画像</text>
+    <text x="296" y="410">03 关键做法</text>
+    <text x="428" y="410">04 代表作者</text>
+    <text x="560" y="410">05 异质探索</text>
+    <text x="692" y="410">06 前后差异</text>
+    <text x="824" y="410">07 代表作</text>
+  </g>
+  <line x1="32" y1="422" x2="120" y2="422" stroke="#B23A6B" stroke-width="2"/>
+  <text x="1376" y="410" font-size="11" fill="#9A948C" font-family="monospace" text-anchor="end">滚动时吸顶</text>
+
+  <!-- 01 时代条件 -->
+  <text x="32" y="472" font-size="13" fill="#B23A6B" font-family="monospace">01 时代条件</text>
+  <text x="32" y="506" font-size="22" font-weight="700" fill="#1A1A1A">先把画面之外的条件说清楚</text>
+  <g fill="#D9D2C5">
+    <rect x="32" y="528" width="900" height="10"/>
+    <rect x="32" y="550" width="880" height="10"/>
+    <rect x="32" y="572" width="896" height="10"/>
+    <rect x="32" y="594" width="620" height="10"/>
+  </g>
+  <rect x="980" y="528" width="428" height="76" fill="#FFFDF9" stroke="#D9D2C5"/>
+  <text x="996" y="552" font-size="11" fill="#6B6560" font-family="monospace">时代关键词</text>
+  <text x="996" y="578" font-size="13" fill="#1A1A1A">BD 普及 / 作画讨论 / 剧场高精细 / 3DCG 入场</text>
+
+  <!-- 02 主流画像 -->
+  <text x="32" y="662" font-size="13" fill="#B23A6B" font-family="monospace">02 主流画像</text>
+  <text x="32" y="696" font-size="22" font-weight="700" fill="#1A1A1A">九个维度，一张卡片</text>
+  <text x="32" y="720" font-size="13" fill="#6B6560">点击任一卡 → 展开该维度在六期之间的对比</text>
+  <g>
+    <!-- row 1 -->
+    <rect x="32" y="738" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="764" font-size="11" fill="#6B6560" font-family="monospace">EYE 眼</text>
+    <text x="48" y="790" font-size="14" fill="#1A1A1A">虹膜分层 3–5 层，多重高光 3–6 点</text>
+    <text x="48" y="814" font-size="12" fill="#6B6560">睫毛逐根，瞳孔形状开始多样</text>
+
+    <rect x="498" y="738" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="514" y="764" font-size="11" fill="#6B6560" font-family="monospace">FACE 脸</text>
+    <text x="514" y="790" font-size="14" fill="#1A1A1A">脸颊有体积，下颌有转折</text>
+    <text x="514" y="814" font-size="12" fill="#6B6560">鼻梁回归：一根细线 + 鼻头阴影</text>
+
+    <rect x="964" y="738" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="980" y="764" font-size="11" fill="#6B6560" font-family="monospace">COLOR 色</text>
+    <text x="980" y="790" font-size="14" fill="#1A1A1A">肌肤多层渐变，环境光进入人物</text>
+    <text x="980" y="814" font-size="12" fill="#6B6560">高饱和但不「脏」</text>
+
+    <!-- row 2 -->
+    <rect x="32" y="846" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="872" font-size="11" fill="#6B6560" font-family="monospace">LINE 线</text>
+    <text x="48" y="898" font-size="14" fill="#1A1A1A">线宽变化大，色トレス普及</text>
+    <text x="48" y="922" font-size="12" fill="#6B6560">「省线」与「加线」两极并存</text>
+
+    <rect x="498" y="846" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="514" y="872" font-size="11" fill="#6B6560" font-family="monospace">BODY 身</text>
+    <text x="514" y="898" font-size="14" fill="#1A1A1A">6–8 头身，关节与肌肉有暗示</text>
+    <text x="514" y="922" font-size="12" fill="#6B6560">手的描写变细</text>
+
+    <rect x="964" y="846" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="980" y="872" font-size="11" fill="#6B6560" font-family="monospace">HAIR 发</text>
+    <text x="980" y="898" font-size="14" fill="#1A1A1A">发丝分级，高光分层</text>
+    <text x="980" y="922" font-size="12" fill="#6B6560">前发 / 侧发 / 后发 / 呆毛</text>
+
+    <!-- row 3 -->
+    <rect x="32" y="954" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="980" font-size="11" fill="#6B6560" font-family="monospace">STAGING 演</text>
+    <text x="48" y="1006" font-size="14" fill="#1A1A1A">镜头感：鱼眼、浅景深、逆光</text>
+    <text x="48" y="1030" font-size="12" fill="#6B6560">构图的「摄影化」</text>
+
+    <rect x="498" y="954" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="514" y="980" font-size="11" fill="#6B6560" font-family="monospace">TEXTURE 质</text>
+    <text x="514" y="1006" font-size="14" fill="#1A1A1A">高精细，材质分区</text>
+    <text x="514" y="1030" font-size="12" fill="#6B6560">布料 / 金属 / 皮肤各有一套画法</text>
+
+    <rect x="964" y="954" width="442" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="980" y="980" font-size="11" fill="#6B6560" font-family="monospace">PROPORTION 比例</text>
+    <text x="980" y="1006" font-size="14" fill="#1A1A1A">头身回升，五官间距缩小</text>
+    <text x="980" y="1030" font-size="12" fill="#6B6560">更接近真人</text>
+  </g>
+
+  <!-- 03 关键做法 -->
+  <text x="32" y="1102" font-size="13" fill="#B23A6B" font-family="monospace">03 关键做法</text>
+  <text x="32" y="1136" font-size="22" font-weight="700" fill="#1A1A1A">三条可被复制的技术动作</text>
+  <g>
+    <rect x="32" y="1156" width="28" height="28" fill="#B23A6B" opacity="0.15" stroke="#B23A6B"/>
+    <text x="76" y="1176" font-size="14" font-weight="700" fill="#1A1A1A">给虹膜分层</text>
+    <text x="240" y="1176" font-size="13" fill="#6B6560">从「一个颜色的圆」变成「底色＋内圈＋瞳孔＋边缘光」四层</text>
+
+    <rect x="32" y="1200" width="28" height="28" fill="#B23A6B" opacity="0.15" stroke="#B23A6B"/>
+    <text x="76" y="1220" font-size="14" font-weight="700" fill="#1A1A1A">让皮肤透光</text>
+    <text x="240" y="1220" font-size="13" fill="#6B6560">脸颊、鼻尖、耳廓加暖色渐变，模拟皮下血色</text>
+
+    <rect x="32" y="1244" width="28" height="28" fill="#B23A6B" opacity="0.15" stroke="#B23A6B"/>
+    <text x="76" y="1264" font-size="14" font-weight="700" fill="#1A1A1A">用高光计时</text>
+    <text x="240" y="1264" font-size="13" fill="#6B6560">高光的数量与位置承担情绪功能：眼睛湿润时高光变多变散</text>
+  </g>
+
+  <!-- 04 代表作者 -->
+  <text x="32" y="1322" font-size="13" fill="#B23A6B" font-family="monospace">04 代表作者</text>
+  <text x="32" y="1356" font-size="22" font-weight="700" fill="#1A1A1A">四条可被追踪的线</text>
+  <g>
+    <rect x="32" y="1376" width="330" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="1404" font-size="14" font-weight="700" fill="#1A1A1A">西屋太志</text>
+    <text x="48" y="1428" font-size="12" fill="#6B6560">《冰菓》｜信息量的分水岭</text>
+    <text x="48" y="1450" font-size="12" fill="#B23A6B">→《利兹与青鸟》反向收束</text>
+
+    <rect x="386" y="1376" width="330" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="402" y="1404" font-size="14" font-weight="700" fill="#1A1A1A">田中将賀</text>
+    <text x="402" y="1428" font-size="12" fill="#6B6560">《未闻花名》｜泪水脸定型</text>
+    <text x="402" y="1450" font-size="12" fill="#B23A6B">→ 此后十五年最稳定的主流</text>
+
+    <rect x="740" y="1376" width="330" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="756" y="1404" font-size="14" font-weight="700" fill="#1A1A1A">浅野恭司</text>
+    <text x="756" y="1428" font-size="12" fill="#6B6560">《进击的巨人》｜太线与厚涂</text>
+    <text x="756" y="1450" font-size="12" fill="#B23A6B">→ P5 力量派的源头</text>
+
+    <rect x="1094" y="1376" width="312" height="96" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="1110" y="1404" font-size="14" font-weight="700" fill="#1A1A1A">中嶋敦子</text>
+    <text x="1110" y="1428" font-size="12" fill="#6B6560">《东京喰种》｜病态美形</text>
+    <text x="1110" y="1450" font-size="12" fill="#B23A6B">→ 恐怖与美少年的缝合</text>
+  </g>
+
+  <!-- 05 异质探索 -->
+  <text x="32" y="1520" font-size="13" fill="#B23A6B" font-family="monospace">05 异质探索</text>
+  <text x="32" y="1554" font-size="22" font-weight="700" fill="#1A1A1A">主流旁边的三条岔路</text>
+  <g>
+    <rect x="32" y="1576" width="442" height="110" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="1604" font-size="14" font-weight="700" fill="#1A1A1A">四叠半神话大系</text>
+    <text x="48" y="1628" font-size="12" fill="#6B6560">扭曲透视、变形人物</text>
+    <text x="48" y="1656" font-size="12" fill="#B23A6B">→ 后来变成：映像研 / 春宵苦短</text>
+
+    <rect x="498" y="1576" width="442" height="110" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="514" y="1604" font-size="14" font-weight="700" fill="#1A1A1A">魔法少女小圆</text>
+    <text x="514" y="1628" font-size="12" fill="#6B6560">圆脸萌被拆解成恐怖</text>
+    <text x="514" y="1656" font-size="12" fill="#B23A6B">→ 后来变成：来自深渊</text>
+
+    <rect x="964" y="1576" width="442" height="110" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="980" y="1604" font-size="14" font-weight="700" fill="#1A1A1A">斩服少女</text>
+    <text x="980" y="1628" font-size="12" fill="#6B6560">极端夸张的体态与锐角</text>
+    <text x="980" y="1656" font-size="12" fill="#B23A6B">→ 后来变成：赛马娘 / 孤独摇滚</text>
+  </g>
+
+  <!-- 06 前后差异 -->
+  <text x="32" y="1730" font-size="13" fill="#B23A6B" font-family="monospace">06 前后差异</text>
+  <g>
+    <rect x="32" y="1748" width="442" height="90" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="48" y="1774" font-size="11" fill="#6B6560" font-family="monospace">上一期 P3</text>
+    <text x="48" y="1800" font-size="13" fill="#1A1A1A">减笔画：鼻口压到几乎不存在</text>
+    <text x="48" y="1822" font-size="12" fill="#6B6560">《轻音少女》2009</text>
+
+    <rect x="498" y="1748" width="442" height="90" fill="#B23A6B" opacity="0.08"/>
+    <text x="514" y="1774" font-size="11" fill="#B23A6B" font-family="monospace">本期 P4</text>
+    <text x="514" y="1800" font-size="13" fill="#1A1A1A">加信息：虹膜分层、肌肤渐变</text>
+    <text x="514" y="1822" font-size="12" fill="#6B6560">《冰菓》2012</text>
+
+    <rect x="964" y="1748" width="442" height="90" fill="#FFFDF9" stroke="#D9D2C5"/>
+    <text x="980" y="1774" font-size="11" fill="#6B6560" font-family="monospace">下一期 P5</text>
+    <text x="980" y="1800" font-size="13" fill="#1A1A1A">分裂：太线 / 和风 / 极简</text>
+    <text x="980" y="1822" font-size="12" fill="#6B6560">《我的英雄学院》2016</text>
+  </g>
+
+  <!-- 07 代表作 -->
+  <text x="32" y="1896" font-size="13" fill="#B23A6B" font-family="monospace">07 代表作</text>
+  <text x="32" y="1930" font-size="22" font-weight="700" fill="#1A1A1A">本期 20 件，按年份排列</text>
+  <g>
+    <rect x="32" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="170" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="308" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="446" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="584" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="722" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="860" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="998" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="1136" y="1952" width="126" height="126" fill="#E8E3D9" stroke="#D9D2C5"/>
+    <rect x="1274" y="1952" width="132" height="126" fill="#FFFDF9" stroke="#B8AE9C" stroke-dasharray="4 4"/>
+    <text x="1340" y="2022" font-size="12" fill="#6B6560" text-anchor="middle">+10</text>
+    <text x="95" y="2098" font-size="11" fill="#1A1A1A" text-anchor="middle">2010</text>
+    <text x="233" y="2098" font-size="11" fill="#1A1A1A" text-anchor="middle">2011</text>
+    <text x="371" y="2098" font-size="11" fill="#1A1A1A" text-anchor="middle">2012</text>
+    <text x="509" y="2098" font-size="11" fill="#1A1A1A" text-anchor="middle">2013</text>
+    <text x="647" y="2098" font-size="11" fill="#1A1A1A" text-anchor="middle">2014</text>
+  </g>
+  <text x="32" y="2130" font-size="12" fill="#6B6560">悬停显示标题与一句话；点击进详情页。移动端改为 2 列网格。</text>
+
+  <!-- 底部导航 -->
+  <line x1="32" y1="2150" x2="1408" y2="2150" stroke="#D9D2C5"/>
+  <text x="32" y="2174" font-size="13" fill="#1A1A1A">← P3 角色主导的时代</text>
+  <text x="1408" y="2174" font-size="13" fill="#1A1A1A" text-anchor="end">P5 全球化与样式分裂 →</text>
+</svg>
