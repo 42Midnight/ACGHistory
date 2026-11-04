@@ -1,0 +1,8 @@
+---
+import {assets} from '../lib/data';
+const {id, eager=false, compact=false}=Astro.props;
+const image=assets[id];
+---
+<figure class:list={['art',{'no-image':!image}]}>
+  {image ? <><img src={image.src} alt={image.alt} loading={eager?'eager':'lazy'} decoding="async" width="720" height="960"/>{!compact&&<figcaption><a href={image.source} target="_blank" rel="noreferrer">公式图出处 ↗</a><span>{image.note}</span></figcaption>}<span class="image-error">图像暂时无法显示 · 可访问官方出处</span></> : <div class="missing-art"><span>图像档案</span><p>公式图待收录</p><small>保留出处核验后补充</small></div>}
+</figure>

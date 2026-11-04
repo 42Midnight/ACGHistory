@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import WorkCard from '../components/WorkCard.astro';
+import {entries,periods,kinds} from '../lib/data';
+---
+<Layout title="年度时间轴">
+<section class="shell timeline-heading"><p class="eyebrow">THE ANNUAL INDEX / 1996—2025</p><div class="section-head"><h1>把时间，拨到这一年。</h1><p>悬停预览 · 点击固定<br/>选择两件作品，放在一起看。</p></div></section>
+<div class="period-band shell" aria-label="按时期跳转">{periods.map(p=><button data-period={p.id} data-year={p.range[0]} style={`--accent:${p.accent};flex:${p.range[1]-p.range[0]+1}`}><span>{p.label}</span>{p.name}</button>)}</div>
+<section class="shell timeline-body">
+ <div class="year-header"><div class="year-lockup"><span id="active-year">1996</span><div><span class="eyebrow" id="active-code">PERIOD 01</span><h2 id="active-period">赛璐璐的余温</h2><p id="year-state">悬停预览，点击固定年份</p></div></div><div class="filters"><label for="kind-filter">媒介</label><select id="kind-filter"><option value="all">全部媒介</option>{Object.entries(kinds).map(([v,l])=><option value={v}>{l}</option>)}</select><button id="unpin" hidden>取消固定</button></div></div>
+ <div class="year-controls"><button id="prev-year" aria-label="上一年">←</button><div class="year-axis" role="group" aria-label="选择年份，支持左右方向键及 Home、End">{Array.from({length:30},(_,i)=>i+1996).map(y=><button data-year={y} aria-pressed={y===1996?'true':'false'}>{y}<i></i></button>)}</div><button id="next-year" aria-label="下一年">→</button></div>
+ <div id="year-announcement" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+ {Array.from({length:30},(_,i)=>i+1996).map(y=><div class="year-panel" data-panel={y} hidden={y!==1996}><div class="work-grid">{entries.filter(e=>e.year===y).map((e,i)=><WorkCard entry={e} index={i}/>)}</div><p class="empty-filter" hidden>这一年没有该媒介的入选样本。<button data-reset-filter>查看全部媒介</button></p></div>)}
+ <div class="timeline-note"><span id="result-count">本年 4 件样本</span><span>年份为研究归属年；与首次公开年不同时见详情说明。</span></div>
+ <noscript><p class="notice">启用 JavaScript 可切换年份与对比。也可以在<a href="/periods/">六期目录</a>中浏览全部作品。</p></noscript>
+</section>
+<aside id="compare-tray" class="compare-tray" aria-label="作品对比选择" hidden><span id="compare-count" aria-live="polite"></span><button id="compare-open">并排观察 ↗</button><button id="compare-clear">清空</button></aside>
+<dialog id="compare-dialog" aria-labelledby="compare-title"><div class="dialog-header"><h2 id="compare-title">并排观察</h2><form method="dialog"><button aria-label="关闭对比">关闭 ×</button></form></div><p>比较相同景别与角度；图像的制作版本和用途可能不同，请结合图注。</p><div id="compare-content" class="comparison-grid"></div></dialog>
+<script src="../scripts/timeline.ts"></script>
+</Layout>

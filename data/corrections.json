@@ -1,0 +1,117 @@
+{
+  "updated": "2026-11-04",
+  "records": [
+    {
+      "id": "2002-gits",
+      "field": "designer",
+      "old": "後藤隆幸",
+      "value": "下村一",
+      "url": "https://theghostintheshell.jp/series/stand_alone_complex",
+      "note": "第一季角色设计；後藤隆幸为作画监督，后续第二季职务不同。"
+    },
+    {
+      "id": "2004-gankutsuou",
+      "field": "designer",
+      "old": null,
+      "value": "松原秀典",
+      "url": "https://www.gonzo.co.jp/archives/gankutsuou/staff/interview/index.html",
+      "note": "区分前田真宏的角色原案与松原秀典的动画角色设计。"
+    },
+    {
+      "id": "2025-gqux",
+      "field": "designer",
+      "old": null,
+      "value": "竹",
+      "url": "https://gundam-official.com/gquuuuuux/staff/",
+      "note": "补齐官方角色设计署名。"
+    },
+    {
+      "id": "2025-lazarus",
+      "field": "designer",
+      "old": null,
+      "value": "林明美",
+      "url": "https://www.aniplex.co.jp/lineup/lazarus/",
+      "note": "补齐角色设计署名。"
+    },
+    {
+      "id": "2021-umamusume2",
+      "field": "designer",
+      "old": null,
+      "value": "椛島洋介",
+      "url": "https://anime-umamusume.jp/archive/2nd/caststaff/",
+      "note": "角色设计；藤本さとる等总作画监督单列，不合并职务。"
+    },
+    {
+      "id": "2024-dandadan",
+      "field": "creator",
+      "old": "風雅なおと（監督）",
+      "value": "山代風我（監督）",
+      "url": "https://anime-dandadan.com/staffcast/",
+      "note": "纠正姓名倒置；对应2024年第一季。"
+    },
+    {
+      "id": "2022-gwitch",
+      "field": "designer",
+      "old": "モグモ",
+      "value": "田頭真理恵／戸井田珠里／高谷浩利",
+      "url": "https://en.gundam-official.com/witch-from-mercury/gallery/special/interview/1/",
+      "note": "モグモ为角色设计原案。"
+    },
+    {
+      "id": "2012-hyouka",
+      "field": "designer",
+      "old": "西屋太志",
+      "value": "西屋太志",
+      "url": "https://kotenbu.com/staffcast/",
+      "note": "确认角色设计与监督武本康弘。"
+    },
+    {
+      "id": "2023-frieren",
+      "field": "designer",
+      "old": "長澤礼子",
+      "value": "長澤礼子",
+      "url": "https://frieren-anime.jp/staffcast/",
+      "note": "仅指2023年第一季，不能套用后续季署名。"
+    },
+    {
+      "id": "1998-lain",
+      "field": "designer",
+      "old": "安倍吉俊",
+      "value": "岸田隆宏",
+      "url": "https://www.b-ch.com/titles/164/",
+      "note": "原案与动画角色设计分列。"
+    },
+    {
+      "id": "2002-juuni",
+      "field": "designer",
+      "old": "山田章博",
+      "value": "田中比呂人／楠本祐子",
+      "url": "https://www.b-ch.com/titles/3246/",
+      "note": "原案与动画角色设计分列。"
+    },
+    {
+      "id": "2008-macrossf",
+      "field": "designer",
+      "old": "江端里沙",
+      "value": "江端里沙／高橋裕一",
+      "url": "https://macross.jp/pages/series?title=macrossf",
+      "note": "补齐共同角色设计署名。"
+    },
+    {
+      "id": "2010-yojouhan",
+      "field": "designer",
+      "old": "伊東伸高",
+      "value": "伊東伸高",
+      "url": "https://www.b-ch.com/titles/3750/",
+      "note": "原案与动画角色设计分列。"
+    },
+    {
+      "id": "2011-tigerbunny",
+      "field": "designer",
+      "old": "桂正和",
+      "value": "羽山賢二／山田正樹",
+      "url": "https://www.b-ch.com/titles/2963/",
+      "note": "桂正和为角色原案与英雄设计，动画角色设计分列。"
+    }
+  ]
+}

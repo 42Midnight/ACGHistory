@@ -1,12 +1,12 @@
 {
   "meta": {
-    "project": "日式ACG人物画风演变 1996–2026",
-    "version": "0.1.0",
-    "updated": "2026-11-03",
-    "total": 124,
+    "project": "日式ACG人物画风演变 1996–2025",
+    "version": "0.2.0",
+    "updated": "2026-11-04",
+    "total": 120,
     "core": 120,
-    "provisional": 4,
-    "convention": "每年 4 席，覆盖动画 / 漫画 / 游戏 / 插画四类；动画占比目标 ≥50%。同一作品只出现一次；同一创作者原则上不超过 2 次。年份为『研究归属年』，连载跨年或海外传播滞后时允许 ±1 年，在 yearNote 中说明。",
+    "provisional": 0,
+    "convention": "每年四席，共120条。year为研究归属年；与首次公开年不同时必须注明yearNote。插画师按代表作品的观察节点归年。日式为视觉传统，不等同制作国籍；非日本作品须注明。",
     "kinds": {
       "anime": "动画（TV / 剧场 / OVA）",
       "manga": "漫画",
@@ -20,7 +20,9 @@
       "color": "色",
       "body": "身",
       "hair": "发",
-      "staging": "演"
+      "staging": "演",
+      "texture": "质",
+      "proportion": "比例"
     }
   },
   "entries": [
@@ -44,8 +46,9 @@
       ],
       "why": "本研究的计时原点。极细的外轮廓、拉长的四肢、几乎不画鼻梁的脸，以及阴影里那层青——EVA 把『不安』直接写进了人物线条。",
       "status": "core",
-      "confidence": "high",
-      "order": 1
+      "confidence": "medium",
+      "order": 1,
+      "verification": "unverified"
     },
     {
       "id": "1996-escaf",
@@ -66,7 +69,8 @@
       ],
       "why": "结城信辉的端正五官与修长体态，是90年代『漂亮系』的标本：鼻梁挺直、下颌线清晰，与EVA的『削瘦』互为反面。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1996-ccs",
@@ -85,9 +89,10 @@
         "大眼睛",
         "装饰性"
       ],
-      "why": "CLAMP 的大眼、细腕、繁复发饰，把『可爱』拆成可复制的装饰语法，此后二十年的少女向造形几乎都在这个语法里加减。",
+      "why": "CLAMP以装饰性大眼、纤细手腕与发饰组织人物，适合与同年动画、游戏的五官表现比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1996-sakura",
@@ -106,9 +111,10 @@
         "端正美形",
         "大正浪漫"
       ],
-      "why": "藤岛康介把动画式的端正美少女搬进游戏，并让角色靠『声音+舞台』立住——游戏人物第一次拥有了跨媒体的脸。",
+      "why": "藤岛康介的角色设计以清晰五官、发型和衣装轮廓建立辨识度，是本组游戏人物与动画样式互相参照的案例。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1997-mononoke",
@@ -129,7 +135,8 @@
       ],
       "why": "与EVA相反的一极：圆脸、粗轮廓、以动作而非符号塑造人物。宫崎骏的脸不追求美，追求『能跑能呼吸』。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1997-utena",
@@ -148,9 +155,10 @@
         "锐角",
         "剧场性"
       ],
-      "why": "长谷川真也把人物画成锐角与装饰图形，配合几原的舞台化构图——『脸』第一次被当作平面设计来用。",
+      "why": "长谷川真也把人物画成锐角与装饰图形，配合几原的舞台化构图——『脸』在本组样本中鲜明地被当作平面设计来用。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1997-onepiece",
@@ -169,9 +177,10 @@
         "夸张",
         "少年漫画"
       ],
-      "why": "极端的变形与夸张动作，确立了此后二十年最大众的『少年漫画身体』：不讲比例，只讲势能与辨识度。",
+      "why": "夸张的四肢与身体变形强调动作方向和角色辨识度，可用于观察少年漫画对人体比例的主动改写。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1997-ff7",
@@ -190,9 +199,10 @@
         "大头",
         "野村脸"
       ],
-      "why": "低多边形3D与『动画式大头』第一次大规模结合，野村哲也的面孔语汇在此起笔，之后统治了二十年的3D日式角色。",
+      "why": "野村哲也的角色绘与游戏中的不同人物表现形成跨媒介对照：观察发型剪影、服装分区和身体比例，区分原画与游戏画面。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1998-bebop",
@@ -211,9 +221,10 @@
         "成人向",
         "松弛线条"
       ],
-      "why": "川元利浩的写实比例、成人化五官与松弛线条，证明『不萌』也能成为主流——这是与萌系平行的一整条主线。",
+      "why": "川元利浩设计的成人五官、修长身体与松弛姿态，提供与同期装饰性大眼不同的人物路线。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1998-lain",
@@ -224,7 +235,7 @@
       "ja": "serial experiments lain",
       "en": "Serial Experiments Lain",
       "creator": "中村隆太郎（監督）",
-      "designer": "安倍吉俊",
+      "designer": "岸田隆宏",
       "org": "トライアングルスタッフ",
       "facet": "eye",
       "tags": [
@@ -232,9 +243,27 @@
         "无表情",
         "病态白"
       ],
-      "why": "安倍吉俊的极细线、无表情的脸与病态的白，把『内向』画成了造型本身，90年代末青年向动画的顶点。",
+      "why": "安倍吉俊的原案与岸田隆宏的动画角色设计分工明确；从低垂眼睑、简省鼻口和克制表情观察人物的疏离感。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "partial",
+      "originalDesigner": "安倍吉俊",
+      "verifiedFields": [
+        "designer",
+        "originalDesigner"
+      ],
+      "sources": [
+        {
+          "label": "官方／授权发行资料",
+          "url": "https://www.b-ch.com/titles/164/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer",
+            "originalDesigner"
+          ],
+          "note": "原案与动画角色设计分列。"
+        }
+      ]
     },
     {
       "id": "1998-hxh",
@@ -253,9 +282,10 @@
         "线条密度",
         "少年漫画"
       ],
-      "why": "冨樫用线条密度区分角色性格：干净线与密集线并存，少年漫画开始用『画的多少』来演戏。",
+      "why": "冨樫义博以轮廓、线条密度和身体比例区分人物，可观察同一作品中清爽与密集画法的并存。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1998-mgs",
@@ -276,7 +306,8 @@
       ],
       "why": "新川洋司以水墨式笔触与军事写实，证明游戏人物可以靠『手绘的脏』而不是可爱来立住。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1999-doremi",
@@ -295,9 +326,10 @@
         "夸张表情",
         "作画派"
       ],
-      "why": "马越嘉彦的弹性线条与夸张表情，是00年代『作画派』的直接源头：线条会随情绪伸缩。",
+      "why": "马越嘉彦的弹性轮廓与夸张表情，让线条随情绪和动作伸缩；适合比较稳定造形与变形表演。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1999-toheart",
@@ -316,9 +348,10 @@
         "萌系",
         "影视化"
       ],
-      "why": "美少女游戏原画第一次被大规模『翻译』成TV动画，萌系角色的影视化从这里开始有了流水线。",
+      "why": "美少女游戏人物转为TV动画的比较案例：观察大眼、小鼻口与发束分组如何组成清晰的脸部记号。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1999-hikaru",
@@ -337,9 +370,10 @@
         "端正五官",
         "美形化"
       ],
-      "why": "小畑健的干净线条与端正五官，让少年漫画第一次大规模『美形化』，也是他日后走向剧画式阴影的起点。",
+      "why": "小畑健以清晰轮廓、端正五官和细致发束区分人物，可与其后续漫画比较面部阴影和眼神。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "1999-vp",
@@ -360,7 +394,8 @@
       ],
       "why": "吉成钢的厚涂与锐利轮廓，给『暗色幻想』提供了与萌系完全相反的技术方案：靠材质而不是靠符号。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2000-flcl",
@@ -379,9 +414,10 @@
         "变形",
         "作画"
       ],
-      "why": "平松祯史把剧画式的粗线与动画式的变形混在一起，制造出『随时会崩』的张力，00年代作画狂欢的原点。",
+      "why": "平松祯史的角色设计在简省五官、锐利轮廓与夸张身体之间切换，是观察OVA人物变形的样本。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2000-argent",
@@ -400,9 +436,10 @@
         "鼻梁消失",
         "眼距"
       ],
-      "why": "『平井脸』首次成型：鼻梁几乎不画、眼距拉开、轮廓简化成弧线——这套五官此后十年被反复复制。",
+      "why": "平井久司设计的人物以突出的眼部、小鼻口和尖束头发形成辨识度，可与2002年《SEED》比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2000-hachikuro",
@@ -421,9 +458,10 @@
         "潦草线条",
         "女性向"
       ],
-      "why": "羽海野千花的水彩式淡彩与潦草线条，让『不干净』成为高级感，女性向审美开始主导『柔软』这一维度。",
+      "why": "羽海野千花以轻松笔触、柔和用色和细微表情组织人物，提供与同期锐利轮廓不同的漫画样本。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2000-murata",
@@ -443,9 +481,10 @@
         "复古未来",
         "无国籍"
       ],
-      "why": "极细线、无国籍服饰与复古未来，村田莲尔把插画的技术标准抬到『每一根线都有理由』，影响了一整代画师。",
+      "why": "村田莲尔的人物插画可观察纤细轮廓、眼睑与服装结构之间的关系；具体归年仍需代表作品锚点。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2001-spirited",
@@ -464,9 +503,10 @@
         "极简鼻口",
         "国民动画"
       ],
-      "why": "『国民动画脸』的完成形：圆脸、大眼、几乎省略的鼻口。它是所有『日式脸』讨论里最强的大众基准线。",
+      "why": "圆润轮廓与简省五官配合具体的身体动作，可作为同期装饰性大眼路线的对照。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2001-furuba",
@@ -485,9 +525,10 @@
         "薄涂",
         "少女漫画"
       ],
-      "why": "薄涂、柔光、细长睫毛，少女漫画动画化的『透明感』模板在此定型，之后的纯爱系几乎照抄。",
+      "why": "2001年动画版以柔和脸部轮廓、细长眼型与轻淡人物用色形成观察入口，需与后续重制版本分开。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2001-bleach",
@@ -508,7 +549,8 @@
       ],
       "why": "久保带人以『设计感』取胜：大面积黑白、锐利的剪影与留白，少年漫画开始像时尚杂志。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2001-ff10",
@@ -527,9 +569,10 @@
         "表情动画",
         "写实化"
       ],
-      "why": "配音与表情动画让『游戏人物的脸』第一次能演情感；从FF7的多边形脸到FF10的会哭的脸，只用了四年。",
+      "why": "比较人物原画与游戏画面中的眼型、头发和身体比例，也可与1997年《FFVII》区分媒介条件后对照。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2002-seed",
@@ -548,9 +591,10 @@
         "大众化",
         "美少年"
       ],
-      "why": "『平井脸』在此完成大众化：它是00年代中期最普及的美少年/美少女五官比例，也是后来被吐槽最多的模板。",
+      "why": "平井久司的眼型、小鼻口与尖束发型形成清晰的角色语汇；可与其早期作品及同期成人五官路线比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2002-juuni",
@@ -561,7 +605,7 @@
       "ja": "十二国記",
       "en": "The Twelve Kingdoms",
       "creator": "小野不由美（原作）",
-      "designer": "山田章博",
+      "designer": "田中比呂人／楠本祐子",
       "org": "ぴえろ",
       "facet": "line",
       "tags": [
@@ -569,9 +613,27 @@
         "厚重衣装",
         "异质"
       ],
-      "why": "山田章博的东方线条与厚重衣装，把『异质之美』带进大众视野：不是可爱，不是写实，而是『古意』。",
+      "why": "山田章博的角色原案经动画设计转化，鼻梁、面部骨点与衣装轮廓构成观察人物差异的入口。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "partial",
+      "originalDesigner": "山田章博",
+      "verifiedFields": [
+        "designer",
+        "originalDesigner"
+      ],
+      "sources": [
+        {
+          "label": "官方／授权发行资料",
+          "url": "https://www.b-ch.com/titles/3246/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer",
+            "originalDesigner"
+          ],
+          "note": "原案与动画角色设计分列。"
+        }
+      ]
     },
     {
       "id": "2002-gits",
@@ -582,7 +644,7 @@
       "ja": "攻殻機動隊 STAND ALONE COMPLEX",
       "en": "Ghost in the Shell: Stand Alone Complex",
       "creator": "神山健治（監督）",
-      "designer": "後藤隆幸",
+      "designer": "下村一",
       "org": "Production I.G",
       "facet": "color",
       "tags": [
@@ -591,9 +653,24 @@
         "写实",
         "成人向"
       ],
-      "why": "后藤隆幸的冷色硬边与写实比例，是萌系之外最稳定的一条成人向主线，《攻壳》之后『硬派脸』有了标准答案。",
+      "why": "下村一负责第一季角色设计。较明确的鼻部结构、成人五官与身体比例，提供与同期圆润大眼路线的对照。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://theghostintheshell.jp/series/stand_alone_complex",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "第一季角色设计；後藤隆幸为作画监督，后续第二季职务不同。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2002-airgear",
@@ -612,9 +689,10 @@
         "插画化",
         "动态构图"
       ],
-      "why": "大暮维人把线条密度推到『画集』级别，漫画第一次可以靠『线本身』而不是故事被观看。",
+      "why": "大暮维人以密集线条、服饰细节和身体透视强调人物动势，可比较装饰信息与轮廓识别之间的关系。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2003-hagane",
@@ -633,9 +711,10 @@
         "浓重阴影",
         "少年向"
       ],
-      "why": "『可爱轮廓+浓重阴影』的平衡术：脸是圆的，阴影是狠的，少年向动画在2003年进入技术圆熟期。",
+      "why": "圆润面部轮廓与强烈人物阴影并存，适合观察角色在平静表情、喜剧变形和紧张动作间的变化。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2003-fumoffu",
@@ -654,9 +733,10 @@
         "喜感",
         "圆润"
       ],
-      "why": "京阿尼早期『圆润+喜感』的起点：夸张的肢体与节奏感，为两年后的《AIR》和六年后的《轻音》铺好地基。",
+      "why": "圆润五官、夸张嘴形和大幅身体动作服务喜剧表演，可与同公司后续作品比较设计者之间的差异。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2003-deathnote",
@@ -677,7 +757,8 @@
       ],
       "why": "小畑健用剧画式阴影与锐利眼神，把『美形』推向阴郁与智性——从《棋魂》到《死亡笔记》，他的线一直在变硬。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2003-smt3",
@@ -696,9 +777,10 @@
         "恶魔轮廓",
         "暗黑"
       ],
-      "why": "金子一马的金属质感与恶魔式轮廓，给游戏人物设计提供了『暗黑高级感』这一支，与萌系彻底分道。",
+      "why": "金子一马以冷硬的色面、鲜明的身体标记与恶魔式轮廓组织人物，提供与同期圆润大眼设计不同的对照。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2004-nanoha",
@@ -719,7 +801,8 @@
       ],
       "why": "『萌+魔法少女+战斗』的组合定型，00年代中期的角色消费模板：可爱是入口，战斗力是留客手段。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2004-gankutsuou",
@@ -730,7 +813,7 @@
       "ja": "巌窟王",
       "en": "Gankutsuou: The Count of Monte Cristo",
       "creator": "前田真宏（監督）",
-      "designer": null,
+      "designer": "松原秀典",
       "org": "ゴンゾ",
       "facet": "texture",
       "tags": [
@@ -740,7 +823,22 @@
       ],
       "why": "用纹理贴图取代平涂的『非动画涂』实验，人物像被印在和服与壁纸上——主流之外的这条美学分支一直没有断。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://www.gonzo.co.jp/archives/gankutsuou/staff/interview/index.html",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "区分前田真宏的角色原案与松原秀典的动画角色设计。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2004-moyashimon",
@@ -761,7 +859,8 @@
       ],
       "why": "细线、写实人体配上古怪的吉祥物，青年漫画保留了『手绘的笨拙』，这是萌系工业化之外的另一条路。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2004-itoi",
@@ -781,9 +880,10 @@
         "高饱和",
         "可爱"
       ],
-      "why": "轻小说插画反向定义动画脸的开端：她的高饱和发色与大眼睛先在小说的封面成立，再被动画拿去执行。",
+      "why": "伊东杂音的轻小说人物插画以鲜明发色、装饰性大眼和服装轮廓建立辨识度；归年需具体代表作品来源。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2005-air",
@@ -803,9 +903,10 @@
         "细腿",
         "Key"
       ],
-      "why": "京阿尼Key系的原点：超大眼睛、极细的腿、上色像玻璃。与2012年的《中二病》并置，就是七年间画风的最大位移。",
+      "why": "荒谷朋惠负责的动画角色设计，保留鲜明的大眼、小鼻口与纤细体态；可与2012年的《中二病》比较同一公司不同设计者的选择。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2005-eureka",
@@ -826,7 +927,8 @@
       ],
       "why": "吉田健一的松弛线条与生活感，证明『画得不紧』是一种能力——『能呼吸的线条』成了作画派的口号。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2005-kimini",
@@ -847,7 +949,8 @@
       ],
       "why": "圆脸+柔光的少女漫画主流，把『保守的可爱』维持到2010年代，成为纯爱影像的视觉底稿。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2005-abyss",
@@ -868,7 +971,8 @@
       ],
       "why": "藤岛康介式端正美形的成熟版：从1996年《樱花大战》到2005年《深渊传说》，同一种脸在十年间被稳定供给。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2006-haruhi",
@@ -887,9 +991,10 @@
         "圆脸",
         "透明感"
       ],
-      "why": "『京阿尼脸』确立：大眼、圆脸、透明感，加上轻小说原作的热度，00年代后半的主流由此换挡。",
+      "why": "大眼、圆润脸部和清晰发型构成人物辨识度，适合与同公司前后作品比较；不据单作推断整个行业的主流转向。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2006-geass",
@@ -910,7 +1015,8 @@
       ],
       "why": "CLAMP原案的『长身+锐角』被木村贵宏翻译成动画：四肢被拉长到极限，与同年的萌系圆脸正面分庭抗礼。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2006-kuroshitsuji",
@@ -931,7 +1037,8 @@
       ],
       "why": "枢梁的哥特式美少年与繁复服饰，把『装饰性』推向女性向的极致：头发、蕾丝、缎带都是画风的一部分。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2006-ff12",
@@ -950,9 +1057,10 @@
         "手绘气质",
         "3D"
       ],
-      "why": "吉田明彦的『绘画式』人物，让3D游戏里第一次有了手绘的气味：边缘是不干净的，颜色是有厚度的。",
+      "why": "吉田明彦的角色绘重视五官结构、衣装层次和较柔和的色面，可与游戏中的立体人物分开比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2007-5cm",
@@ -971,9 +1079,10 @@
         "写实人体",
         "独立制作"
       ],
-      "why": "实景级光影+写实人体，新海诚的独立制作路线证明：不靠角色设计，靠『光』也能让人物成立，为10年代剧场动画铺路。",
+      "why": "观察西尾铁也设计的人物如何以发束、较简省的五官和肤色阴影保持辨识度；不将背景光影作为人物画风结论。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2007-gurren",
@@ -994,7 +1103,8 @@
       ],
       "why": "今石洋之与锦织敦史把变形推到极端：人物可以随时扭曲成符号，作画至上主义在此达到顶点。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2007-chihaya",
@@ -1015,7 +1125,8 @@
       ],
       "why": "末次由纪的纤细线条与和服动态，把少女漫画的表情精度提到了新高度：眼睛会因竞技的紧张而收缩。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2007-kei",
@@ -1035,9 +1146,10 @@
         "角色作者",
         "跨媒介"
       ],
-      "why": "初音未来：插画师第一次成为『角色本身的作者』。角色不再依附作品，而由画师直接生产，VOCALOID 文化由此开始。",
+      "why": "KEI以青绿色双马尾、服装配色与修长轮廓建立初音未来的角色记号，可观察插画设计如何在不同媒介中被识别。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2008-macrossf",
@@ -1048,7 +1160,7 @@
       "ja": "マクロスF",
       "en": "Macross Frontier",
       "creator": "河森正治（総監督）",
-      "designer": "江端里沙",
+      "designer": "江端里沙／高橋裕一",
       "org": "サテライト",
       "facet": "hair",
       "tags": [
@@ -1056,9 +1168,24 @@
         "萌",
         "歌"
       ],
-      "why": "『歌+萌』的集大成：江端里沙的偶像脸把发型的体积与光泽做成卖点，偶像系角色的标准脸在此定型。",
+      "why": "江端里沙与高桥裕一共同负责角色设计，鲜明眼型、发型体积与演出姿态是人物比较的入口。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "partial",
+      "verifiedFields": [
+        "designer"
+      ],
+      "sources": [
+        {
+          "label": "官方／授权发行资料",
+          "url": "https://macross.jp/pages/series?title=macrossf",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "补齐共同角色设计署名。"
+        }
+      ]
     },
     {
       "id": "2008-toradora",
@@ -1077,9 +1204,10 @@
         "高光",
         "情感向"
       ],
-      "why": "田中將贺的『圆润+高光』首次大规模流行：他不追求精致，追求『看起来会哭』，10年代主流的先声。",
+      "why": "田中将贺的角色设计可从眼角、脸颊与夸张嘴形入手，比较圆润轮廓和带棱角的表情变化。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2008-kanzaki",
@@ -1099,9 +1227,10 @@
         "动画师兼业",
         "渗透"
       ],
-      "why": "动画师出身的插画师，让轻小说插画与动画脸之间的墙彻底消失：同一批人同时在画OP、插画和角色设计。",
+      "why": "动画与轻小说插画之间的跨媒介作者案例：可比较人物的眼型、发束和轮廓；具体归年仍需代表作品锚点。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2008-p4",
@@ -1120,9 +1249,10 @@
         "时尚配色",
         "平涂"
       ],
-      "why": "副岛成记用高对比平涂与时尚配色，让『帅』与『可爱』在游戏里第一次统一，也是游戏UI设计参与人物塑造的样本。",
+      "why": "副岛成记以清晰轮廓、发型和对比鲜明的人物配色建立角色记号，可与其后续作品的五官及姿态比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2009-kon",
@@ -1141,9 +1271,10 @@
         "极小鼻口",
         "透明上色"
       ],
-      "why": "『京阿尼脸』的巅峰：圆脸、极小的鼻口、透明上色。它把『可爱』压缩到最少的笔画，也成为后来被反叛的对象。",
+      "why": "堀口悠纪子的角色设计以圆润脸颊、小鼻口和松弛体态形成辨识度；与2012年《冰菓》比较时关注作者差异。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2009-bakemono",
@@ -1162,9 +1293,10 @@
         "色块分割",
         "演出系"
       ],
-      "why": "渡边明夫的色块分割与新房昭之的平面化构图，让『人物设计』变成了版面设计，另一种流行由此分叉。",
+      "why": "渡边明夫设计的人物可从眼睑、尖细发束与清晰色面入手，比较稳定造形与夸张表情之间的变化。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2009-aku",
@@ -1185,7 +1317,8 @@
       ],
       "why": "押见修造的写实而令人不适的线条，把『丑』与『真实』带进人物画——它是萌系高峰旁边最刺眼的反面。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2009-vofan",
@@ -1205,9 +1338,10 @@
         "轻小说插画",
         "台湾"
       ],
-      "why": "台湾出身的VOFAN以『光与空气感』重塑轻小说视觉：人物被放进真实的光里，而不是贴在背景上。",
+      "why": "VOFAN的轻小说插画重视人物肤色与受光的关系；归年与代表作品仍需补充作品级出处。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2010-durarara",
@@ -1228,7 +1362,8 @@
       ],
       "why": "岸田隆宏的锐角与装饰性设计，把都会群像画成一群不好惹的年轻人，网络世代审美的先声。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2010-yojouhan",
@@ -1249,7 +1384,25 @@
       ],
       "why": "伊东伸高的扭曲透视与变形人物，把『设计感』推到实验的一端：脸可以不成比例，只要动起来对。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "partial",
+      "originalDesigner": "中村佑介",
+      "verifiedFields": [
+        "designer",
+        "originalDesigner"
+      ],
+      "sources": [
+        {
+          "label": "官方／授权发行资料",
+          "url": "https://www.b-ch.com/titles/3750/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer",
+            "originalDesigner"
+          ],
+          "note": "原案与动画角色设计分列。"
+        }
+      ]
     },
     {
       "id": "2010-huke",
@@ -1270,9 +1423,10 @@
         "机械少女",
         "跨媒介"
       ],
-      "why": "厚涂、暗色与金属质感，huke 把插画的材质感推到动画之前；《命运石之门》证明插画师可以直接定义游戏与动画的脸。",
+      "why": "huke的人物插画以暗色面、鲜明眼部和机械性装饰形成辨识度；代表作品、版本与归年仍需补充出处。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2010-nier",
@@ -1293,7 +1447,8 @@
       ],
       "why": "荒废世界里的『脆弱感』造形，给游戏人物提供了与萌系完全相反的情绪出口：越苍白越有说服力。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2011-madoka",
@@ -1312,9 +1467,10 @@
         "反讽",
         "解构"
       ],
-      "why": "苍树梅的『圆脸萌』被拆解成恐怖：可爱第一次被当作反讽工具，角色设计与叙事在此互为武器。",
+      "why": "苍树梅的『圆脸萌』被拆解成恐怖：可爱在本组样本中鲜明地被当作反讽工具，角色设计与叙事在此互为武器。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2011-anohana",
@@ -1333,9 +1489,10 @@
         "情感向",
         "高光"
       ],
-      "why": "田中將贺的『泪水脸』定型：眼睛的高光被用来计时情绪，10年代情感向动画从此有了标准表情。",
+      "why": "田中将贺设计的人物可从眼角、虹膜高光与眉口位置入手，比较平静和流泪表情中的五官变化。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2011-tigerbunny",
@@ -1346,7 +1503,7 @@
       "ja": "TIGER & BUNNY",
       "en": "Tiger & Bunny",
       "creator": "さとうけいいち（監督）",
-      "designer": "桂正和",
+      "designer": "羽山賢二／山田正樹",
       "org": "サンライズ",
       "facet": "body",
       "tags": [
@@ -1354,9 +1511,27 @@
         "英雄",
         "成年向"
       ],
-      "why": "桂正和的写实美形进入英雄题材：成年人也可以被画得好看，角色设计第一次明确瞄准成年观众市场。",
+      "why": "桂正和提供角色原案，羽山贤二与山田正树负责动画角色设计；成人面部结构与英雄体态是观察入口。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "partial",
+      "originalDesigner": "桂正和",
+      "verifiedFields": [
+        "designer",
+        "originalDesigner"
+      ],
+      "sources": [
+        {
+          "label": "官方／授权发行资料",
+          "url": "https://www.b-ch.com/titles/2963/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer",
+            "originalDesigner"
+          ],
+          "note": "桂正和为角色原案与英雄设计，动画角色设计分列。"
+        }
+      ]
     },
     {
       "id": "2011-kimiuso",
@@ -1377,7 +1552,8 @@
       ],
       "why": "新川直司的锐利而干净的线条，把『透明感』从少女漫画借到少年漫画，为2014年的动画化提供底稿。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2012-hyouka",
@@ -1396,9 +1572,24 @@
         "多重高光",
         "写实化"
       ],
-      "why": "西屋太志把京阿尼的脸从『记号』改成『信息』：虹膜分层、睫毛分组、皮肤有通透感——10年代的分水岭。",
+      "why": "西屋太志把虹膜层次、清晰眼睑与脸部留白并置；与《轻音》比较时，关注不同角色设计师的眼型和轮廓选择。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://kotenbu.com/staffcast/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "确认角色设计与监督武本康弘。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2012-sao",
@@ -1417,9 +1608,10 @@
         "异世界",
         "VR"
       ],
-      "why": "足立慎吾的『游戏感』人物：皮肤像被光照过，服装有材质分区，异世界/VR题材的视觉模板由此成立。",
+      "why": "足立慎吾设计的人物以清晰眼型、尖束头发和服装色块形成辨识度，可与同期作品比较面部阴影和衣装质感。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2012-chuuni",
@@ -1440,7 +1632,8 @@
       ],
       "why": "与2005年《AIR》同门，却是完全不同的脸：更圆、更软、更强调『可爱』的演出，七年间京阿尼的自我位移。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2012-haikyuu",
@@ -1461,7 +1654,8 @@
       ],
       "why": "古馆春一的强烈线条与身体透视，把运动漫画的『动势美学』推到新高度：汗、肌肉、视线的方向都是画风。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2013-shingeki",
@@ -1480,9 +1674,10 @@
         "厚涂",
         "强阴影"
       ],
-      "why": "浅野恭司的粗线+厚涂+强阴影，与精致萌系正面相反；10年代中期的重心从『可爱』移向『强度』。",
+      "why": "浅野恭司设计的人物以鲜明外轮廓、面部阴影和紧张体态呈现力量感，可与同期日常题材对照。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2013-killlakill",
@@ -1503,7 +1698,8 @@
       ],
       "why": "すしお的极端夸张体态与锐角，把『作画』本身变成卖点：人物可以不合解剖，只要够有势能。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2013-koenokatachi",
@@ -1522,9 +1718,10 @@
         "克制表情",
         "伤害"
       ],
-      "why": "大今良时的柔软线条与克制表情，把『伤害』画得很轻——这是10年代最成熟的一次留白。",
+      "why": "大今良时以柔软轮廓、克制的眉口变化与人物间的身体距离表达情绪，是观察细微表情的漫画样本。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2013-ff14",
@@ -1543,9 +1740,10 @@
         "MMO",
         "3D融合"
       ],
-      "why": "吉田明彦的绘画式人物成为MMO的门面，3D与手绘的融合有了可持续的生产线。",
+      "why": "吉田明彦的人物原画可从衣装结构、脸部体积与色面入手；原画和游戏中的角色表现需分别比较。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2014-tokyoghoul",
@@ -1564,9 +1762,10 @@
         "恐怖",
         "美少年"
       ],
-      "why": "中嶋敦子的『病态美形』把恐怖与美少年缝合：眼睛是全黑的，睫毛却是温柔的。",
+      "why": "中嶋敦子的角色设计可比较正常眼睛与赫眼的变化，以及细长五官、发束和阴影共同形成的紧张感。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2014-nozaki",
@@ -1587,7 +1786,8 @@
       ],
       "why": "谷口淳一郎把少女漫画的『夸张表情』动画化，证明喜剧向人物设计可以靠表情本身撑起作品。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2014-dungeon",
@@ -1608,7 +1808,8 @@
       ],
       "why": "九井谅子的细线与严密设定，给『奇幻日常』提供了人物造形的新范式：可爱而不幼稚，复杂而不脏。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2014-rakuten",
@@ -1627,9 +1828,10 @@
         "3DCG",
         "无缝混合"
       ],
-      "why": "2D人物与3DCG的无缝混合，提前预演了十年后『赛璐璐感CG』的技术路线。",
+      "why": "齋藤将嗣设计的人物以清晰色块、发束轮廓与服装分区形成辨识度，关注人物外观和表情，不扩展技术流程史。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2015-onepunch",
@@ -1650,7 +1852,8 @@
       ],
       "why": "久保田誓的简化脸配上顶级动作作画：脸越简单，动作越可以疯狂，人物表现力被重新分配。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2015-euphonium",
@@ -1669,9 +1872,10 @@
         "呼吸感",
         "京阿尼"
       ],
-      "why": "京阿尼把『日常』拍到极致：手指、膝盖、呼吸都被写实化，人物第一次靠『身体的存在感』而非脸取胜。",
+      "why": "京阿尼把『日常』拍到极致：手指、膝盖、呼吸都被写实化，人物在本组样本中鲜明地靠『身体的存在感』而非脸取胜。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2015-kekkai",
@@ -1690,9 +1894,10 @@
         "过度装饰",
         "美式影响"
       ],
-      "why": "川元利浩的写实线条遇上美式漫画式的过度装饰，日式写实与美漫在此第一次真正杂交。",
+      "why": "川元利浩设计的人物结合明确面部骨点、装饰性衣装与夸张表情，可与《星际牛仔》比较相同设计师的变化。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2015-yoneyama",
@@ -1712,9 +1917,10 @@
         "光与色",
         "动画师转插画"
       ],
-      "why": "从动画师转插画师的代表：她把分镜、镜头与光的逻辑带进单张画，影响10年代后半整个插画潮流。",
+      "why": "米山舞的人物插画把动态姿态、鲜明色块与发束轮廓结合；本席位的具体代表作品与发表时间仍待核对。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2016-kiminonawa",
@@ -1733,9 +1939,10 @@
         "全球化",
         "剧场"
       ],
-      "why": "写实光影+田中將贺的脸，产出了全球通行的『日本动画脸』：《你的名字。》之后，全世界都知道日式人物可以长这样。",
+      "why": "田中将贺的角色设计适合观察眼型、发束与较自然的身体比例，比较对象是其早期角色设计样本。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2016-heroaca",
@@ -1756,7 +1963,8 @@
       ],
       "why": "马越嘉彦的太线+弹性变形，把美式漫画的力量感接进日式人物：线条粗、动作大、表情狠。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2016-konosuba",
@@ -1777,7 +1985,8 @@
       ],
       "why": "刻意『崩坏』的线条与摇摆作画，把『画得歪』变成喜剧语言，反精致化成为一条可复制的路线。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2016-p5",
@@ -1796,9 +2005,10 @@
         "剪影",
         "平面设计"
       ],
-      "why": "副岛成记用红黑高对比与剪影式构图，让游戏人物成为平面设计的一部分，UI 与角色首次共用一套语法。",
+      "why": "副岛成记的人物以鲜明剪影、发型和高对比配色建立辨识度，可与2008年《P4》比较眼型及身体姿态。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2017-madeinabyss",
@@ -1819,7 +2029,8 @@
       ],
       "why": "黄濑和哉的可爱画风与残酷世界形成落差：萌系被当作诱饵，人物比例本身就是叙事装置。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2017-houseki",
@@ -1838,9 +2049,10 @@
         "赛璐璐脸",
         "材质"
       ],
-      "why": "全3DCG的『赛璐璐脸』：宝石的折射与头发的透光被CG算出，技术路线第一次正面冲击人物画法。",
+      "why": "宝石角色的头发光泽、清晰色面与简省五官构成独特质感，适合观察人物材质与表情的关系。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2017-blueperiod",
@@ -1859,9 +2071,10 @@
         "笔触",
         "自我"
       ],
-      "why": "山口つばさ以绘画本身为题，人物的表情与笔触带油画感：漫画第一次可以『用画材来演情绪』。",
+      "why": "山口つばさ以绘画本身为题，人物的表情与笔触带油画感：漫画在本组样本中鲜明地可以『用画材来演情绪』。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2017-nierautomata",
@@ -1882,7 +2095,8 @@
       ],
       "why": "吉田明彦的『人偶感』造形让2B成为全球性的角色符号：眼睛被遮住，反而更有表情。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2018-violet",
@@ -1901,9 +2115,10 @@
         "多重高光",
         "发丝"
       ],
-      "why": "高濑亚贵子把京阿尼的『信息量』推到极致：虹膜分层、发丝分级、每一根睫毛都有阴影。",
+      "why": "高濑亚贵子设计的人物重视虹膜、发束及衣装的层次，可比较近景细节与中远景轮廓的分工。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2018-popteam",
@@ -1922,9 +2137,10 @@
         "meme",
         "反画风"
       ],
-      "why": "故意粗糙的『梗图脸』进入电视动画：网络meme美学第一次被正当地当作画风来用。",
+      "why": "故意粗糙的『梗图脸』进入电视动画：网络meme美学在本组样本中鲜明地被正当地当作画风来用。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2018-chainsaw",
@@ -1945,7 +2161,8 @@
       ],
       "why": "藤本树用潦草线条与电影式分镜，画出一张『不像少年漫画』的脸：脏、松弛、突然安静。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2018-liz",
@@ -1964,9 +2181,10 @@
         "留白",
         "微表情"
       ],
-      "why": "西屋太志把『信息量』收束为极简：留白、距离、微表情——这是对《冰菓》式繁复的一次自我反驳。",
+      "why": "西屋太志设计的人物以纤细轮廓、较多留白和微小姿态变化组织表情，可与《冰菓》比较，不能据此推断作者意图。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2019-kimetsu",
@@ -1985,9 +2203,10 @@
         "数字特效",
         "和风"
       ],
-      "why": "松岛晃的浮世绘式线与ufotable的数字特效融合：『和风』第一次成为全球通行的视觉语汇。",
+      "why": "松岛晃的角色设计以鲜明眉眼、发束轮廓及服饰纹样区分人物，适合比较线条、色块与装饰的关系。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2019-tenki",
@@ -2006,9 +2225,10 @@
         "摄影化",
         "剧场"
       ],
-      "why": "光与水的极致渲染，把剧场动画推向『摄影化』：人物常常只是光的容器。",
+      "why": "比较人物的发束、眼型与肤色阴影，观察田中将贺在不同作品中的连续与变化。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2019-yakusoku",
@@ -2029,7 +2249,8 @@
       ],
       "why": "儿童角色的圆脸大眼被用于惊悚：可爱与恐怖共享同一套五官，这是日式人物设计最擅长的翻转。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2019-fe3h",
@@ -2048,9 +2269,10 @@
         "美形",
         "战棋"
       ],
-      "why": "乙女向画师仓花千夏进入战棋：女性向审美正式占据游戏主流，发型与眼妆成为角色辨识的核心。",
+      "why": "仓花千夏的人物设计以眼型、发型和衣装层次区分角色，可比较同一系列中不同设计者的五官语汇。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2020-jujutsu",
@@ -2071,7 +2293,8 @@
       ],
       "why": "平松祯史的『记号化』回归：线条刻意简省，表情靠符号与留白——从FLCL的狂欢回到极简。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2020-eizouken",
@@ -2092,7 +2315,8 @@
       ],
       "why": "浅野直之把作画过程本身变成人物表演：线条会犹豫、会重来，『画』的动作成为角色性格。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2020-genshin",
@@ -2111,9 +2335,11 @@
         "全球",
         "二次元"
       ],
-      "why": "中国团队的『赛璐璐3D』成为全球二次元审美的最大公约数：日式脸第一次由非日本团队定义标准。",
+      "why": "中国miHoYo制作的跨国案例：以日式五官、角色剪影和装饰性服装表现立体人物，需要与日本本土作品分开标注。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "regionNote": "中国 · miHoYo；作为日式人物视觉传统的跨国案例纳入，非日本IP。",
+      "verification": "unverified"
     },
     {
       "id": "2020-lam",
@@ -2133,9 +2359,10 @@
         "撞色",
         "视觉冲击"
       ],
-      "why": "高饱和+强对比的『视觉冲击』插画，成为VTuber与音乐视觉的主力：插画开始为小屏幕与算法构图。",
+      "why": "LAM的人物插画以高饱和色块、鲜明眼部与强对比轮廓建立辨识度；本席位需补代表作品和发表时间。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2021-jjk0",
@@ -2156,7 +2383,8 @@
       ],
       "why": "同一套记号在剧场尺度上的完成形：线条更少，留白更大，情绪反而更满。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2021-umamusume2",
@@ -2167,7 +2395,7 @@
       "ja": "ウマ娘 プリティーダービー Season 2",
       "en": "Uma Musume Pretty Derby Season 2",
       "creator": "及川啓（監督）",
-      "designer": null,
+      "designer": "椛島洋介",
       "org": "スタジオKAI",
       "facet": "body",
       "tags": [
@@ -2175,9 +2403,24 @@
         "运动",
         "手绘作画"
       ],
-      "why": "『萌系+运动』的融合：把可爱角色放进真实的肌肉与奔跑里，手绘作画在偶像题材达到极限。",
+      "why": "以圆润五官和清晰发型表现角色身份，再以奔跑姿态、肩臂和腿部变化观察日常与运动表演的差异。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://anime-umamusume.jp/archive/2nd/caststaff/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "角色设计；藤本さとる等总作画监督单列，不合并职务。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2021-lookback",
@@ -2198,7 +2441,8 @@
       ],
       "why": "极简线条与电影式分镜，把『漫画的呼吸』做到极致：留白本身就是人物。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2021-arise",
@@ -2219,7 +2463,8 @@
       ],
       "why": "岩本稔的『水彩+赛璐璐』给出JRPG人物设计的新基准：色块有水痕，边缘有笔触。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2022-bocchi",
@@ -2240,7 +2485,8 @@
       ],
       "why": "けろりら的松弛线条与夸张表情：网络插画师直接进入动画角色设计，表情包语法被搬上电视。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2022-lycoris",
@@ -2261,7 +2507,8 @@
       ],
       "why": "『帅气+可爱』的平衡与眼神设计，成为SNS时代角色营销的模板：一眼就能被截图传播。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2022-gwitch",
@@ -2272,7 +2519,7 @@
       "ja": "機動戦士ガンダム 水星の魔女",
       "en": "Mobile Suit Gundam: The Witch from Mercury",
       "creator": "小林寛（監督）",
-      "designer": "モグモ",
+      "designer": "田頭真理恵／戸井田珠里／高谷浩利",
       "org": "サンライズ",
       "facet": "face",
       "tags": [
@@ -2280,9 +2527,25 @@
         "大眼",
         "萌系化"
       ],
-      "why": "モグモ的细身大眼把高达主角彻底推向萌系：国民级机器人IP的脸，终于交给了同人出身的画师。",
+      "why": "モグモ的角色原案经动画角色设计转化，以眉形、眼型和发束区分人物；可与本组早期高达作品比较五官及体态。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://en.gundam-official.com/witch-from-mercury/gallery/special/interview/1/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "モグモ为角色设计原案。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "originalDesigner": "モグモ",
+      "verification": "partial"
     },
     {
       "id": "2022-aohako",
@@ -2303,8 +2566,9 @@
       ],
       "why": "三浦糀的干净线条与克制表情，给出新时代『青春』的标准脸：不靠高光，靠距离。",
       "status": "core",
-      "confidence": "high",
-      "yearNote": "连载始于2021年，2022年起成为话题"
+      "confidence": "medium",
+      "yearNote": "连载始于2021年，2022年起成为话题",
+      "verification": "unverified"
     },
     {
       "id": "2023-frieren",
@@ -2323,9 +2587,24 @@
         "微表情",
         "静"
       ],
-      "why": "长泽礼子的『静』：极少的线条、极准的微表情，去装饰化成为2020年代的新主流。",
+      "why": "长泽礼子的第一季角色设计可从眼睑开合、眉口位置和稳定发束入手，观察小幅表情变化如何传达情绪。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://frieren-anime.jp/staffcast/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "仅指2023年第一季，不能套用后续季署名。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2023-oshinoko",
@@ -2346,7 +2625,8 @@
       ],
       "why": "平山宽菜的『星瞳』把偶像的眼睛做成符号：瞳孔里可以放星星，眼睛成为品牌LOGO。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2023-kusuriya",
@@ -2365,9 +2645,10 @@
         "猫眼",
         "混血"
       ],
-      "why": "中华风服饰+猫眼表情，和风与中华风的混血造形在2020年代成为显学。",
+      "why": "猫猫的眼睑、眉形及夸张表情与服饰轮廓形成辨识度，可与同年其他作品比较五官记号和人物姿态。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2023-ff16",
@@ -2388,7 +2669,8 @@
       ],
       "why": "写实系3D与英式奇幻的融合：日本游戏人物设计出现明确的『去动画化』分支。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2024-dandadan",
@@ -2398,7 +2680,7 @@
       "zh": "胆大党",
       "ja": "ダンダダン",
       "en": "Dandadan",
-      "creator": "風雅なおと（監督）",
+      "creator": "山代風我（監督）",
       "designer": "恩田尚之",
       "org": "サイエンスSARU",
       "facet": "line",
@@ -2407,9 +2689,24 @@
         "复古",
         "怪奇"
       ],
-      "why": "恩田尚之的动态线条与复古构图，把1970—80年代的怪奇漫画语汇重新接进2020年代的作画。",
+      "why": "恩田尚之的角色设计以清晰面部轮廓、发束和大幅表情变化形成辨识度，关注不同角色与情绪下的五官变化。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://anime-dandadan.com/staffcast/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "creator"
+          ],
+          "note": "纠正姓名倒置；对应2024年第一季。"
+        }
+      ],
+      "verifiedFields": [
+        "creator"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2024-nige",
@@ -2430,7 +2727,8 @@
       ],
       "why": "西谷泰史的轻快线条+和风纹样：历史题材被画成现代脸，发饰与衣纹承担了时代感。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2024-gbc",
@@ -2449,9 +2747,10 @@
         "手绘感",
         "崩坏"
       ],
-      "why": "全3DCG的『手绘感』表情：CG角色第一次拥有作画般的崩坏与张力，CG与手绘的界线被打穿。",
+      "why": "角色的眼型、嘴形与大幅身体姿态形成鲜明表演感；可比较稳定造形和情绪夸张时的变形。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2024-metaphor",
@@ -2472,7 +2771,8 @@
       ],
       "why": "副岛成记把『时尚』推到极致：宽肩、尖下巴、留白的眼睛——游戏人物看起来像时装大片。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2025-gqux",
@@ -2483,7 +2783,7 @@
       "ja": "機動戦士Gundam GQuuuuuuX",
       "en": "Mobile Suit Gundam GQuuuuuuX",
       "creator": "鶴巻和哉（監督）",
-      "designer": null,
+      "designer": "竹",
       "org": "サンライズ／カラー",
       "facet": "color",
       "tags": [
@@ -2491,9 +2791,24 @@
         "庵野",
         "混合"
       ],
-      "why": "庵野秀明+鹤卷和哉+前卫角色设计的混合体：1980年代的脸与2020年代的上色同时出现。",
+      "why": "竹的角色设计以鲜明的发色、大幅度眼型和简省鼻口建立辨识度，是本组2020年代人物样式并行的案例。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://gundam-official.com/gquuuuuux/staff/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "补齐官方角色设计署名。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2025-chainsawmovie",
@@ -2512,9 +2827,10 @@
         "摄影",
         "一体化"
       ],
-      "why": "剧场尺度的『电影感』：线条与摄影的一体化，让2D人物拥有了实拍般的空气与镜头。",
+      "why": "以人物的五官轮廓、身体姿态和表情变化为观察入口；与TV版比较时须先核对对应版本的设计署名。",
       "status": "core",
-      "confidence": "high"
+      "confidence": "medium",
+      "verification": "unverified"
     },
     {
       "id": "2025-lazarus",
@@ -2525,7 +2841,7 @@
       "ja": "LAZARUS ラザロ",
       "en": "Lazarus",
       "creator": "渡辺信一郎（監督）",
-      "designer": null,
+      "designer": "林明美",
       "org": "MAPPA",
       "facet": "staging",
       "tags": [
@@ -2535,7 +2851,22 @@
       ],
       "why": "渡边信一郎与MAPPA的『美式平面+日式线条』：全球化不再只是市场，而是画法本身。",
       "status": "core",
-      "confidence": "medium"
+      "confidence": "medium",
+      "sources": [
+        {
+          "label": "官方主创资料",
+          "url": "https://www.aniplex.co.jp/lineup/lazarus/",
+          "accessedAt": "2026-11-04",
+          "fields": [
+            "designer"
+          ],
+          "note": "补齐角色设计署名。"
+        }
+      ],
+      "verifiedFields": [
+        "designer"
+      ],
+      "verification": "partial"
     },
     {
       "id": "2025-deathstranding2",
@@ -2554,93 +2885,10 @@
         "设计感",
         "照片级3D"
       ],
-      "why": "新川洋司的『写实+设计感』在照片级3D里的延续：手绘的笔触被翻译成材质与照明。",
+      "why": "以新川洋司参与的人物设计为入口，比较写实面部、服装轮廓与角色姿态；具体设计分工仍需作品级来源。",
       "status": "core",
-      "confidence": "high"
-    },
-    {
-      "id": "2026-gits",
-      "year": 2026,
-      "period": "P6",
-      "kind": "anime",
-      "zh": "攻壳机动队 THE GHOST IN THE SHELL",
-      "ja": "攻殻機動隊 THE GHOST IN THE SHELL",
-      "en": "Ghost in the Shell: The Ghost in the Shell",
-      "creator": null,
-      "designer": null,
-      "org": "サイエンスSARU",
-      "facet": "color",
-      "tags": [
-        "重启",
-        "成人向",
-        "待观察"
-      ],
-      "why": "2026年新TV系列，重启最具『成人向写实』血统的IP；它能否给出新的硬派脸，是本年度最重要的观察点。",
-      "status": "provisional",
-      "confidence": "medium"
-    },
-    {
-      "id": "2026-denkimokuroku",
-      "year": 2026,
-      "period": "P6",
-      "kind": "anime",
-      "zh": "二十世纪电气目录",
-      "ja": "二十世紀電氣目録 -ユーレカ・エヴリカ-",
-      "en": "20th Century Electrical Catalog",
-      "creator": "京都アニメーション",
-      "designer": null,
-      "org": "京都アニメーション",
-      "facet": "eye",
-      "tags": [
-        "京阿尼",
-        "新作",
-        "待观察"
-      ],
-      "why": "京阿尼的新作，用来检验『信息量路线』在2019年之后如何继续，以及它是否会被自己的过去压住。",
-      "status": "provisional",
-      "confidence": "medium"
-    },
-    {
-      "id": "2026-sayonaralala",
-      "year": 2026,
-      "period": "P6",
-      "kind": "anime",
-      "zh": "再见拉拉",
-      "ja": "さよならララ",
-      "en": "Sayonara Lara",
-      "creator": "キネマシトラス（オリジナル）",
-      "designer": null,
-      "org": "キネマシトラス",
-      "facet": "line",
-      "tags": [
-        "原创",
-        "新尝试",
-        "待观察"
-      ],
-      "why": "原创动画的新尝试；原创作品往往是画风实验最自由的地方。",
-      "status": "provisional",
-      "confidence": "low"
-    },
-    {
-      "id": "2026-aobuta",
-      "year": 2026,
-      "period": "P6",
-      "kind": "anime",
-      "zh": "青春猪头少年不会梦到兔女郎学姐（剧场版）",
-      "ja": "青春ブタ野郎はバニーガール先輩の夢を見ない",
-      "en": "Rascal Does Not Dream of Bunny Girl Senpai (film)",
-      "creator": null,
-      "designer": "田中将賀",
-      "org": "CloverWorks",
-      "facet": "eye",
-      "tags": [
-        "剧场",
-        "田中將贺",
-        "待观察"
-      ],
-      "why": "2026年10月公映的剧场版，是田中將贺路线在2020年代中期的又一次校准。",
-      "status": "provisional",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification": "unverified"
     }
   ]
 }

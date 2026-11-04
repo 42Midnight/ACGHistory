@@ -1,0 +1,16 @@
+{
+  "name": "acg-character-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/site.mjs dev --host 127.0.0.1",
+    "build": "node scripts/site.mjs build",
+    "preview": "node scripts/site.mjs preview --host 127.0.0.1",
+    "check": "node scripts/validate.mjs",
+    "check:release": "node scripts/validate.mjs --release",
+    "test": "node --test tests/data.test.mjs",
+    "check:site": "node scripts/check-site.mjs"
+  },
+  "dependencies": { "astro": "^6.0.0", "marked": "^17.0.0" }
+}

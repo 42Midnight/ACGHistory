@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {validateData} from '../scripts/validate.mjs';
+const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url),'utf8'));
+const baseline={entries:read('data/entries.json').entries,periods:read('data/periods.json').periods,assets:read('data/assets.json'),essays:read('data/essays.json')};
+test('1996–2025 data satisfies the research contract',()=>assert.deepEqual(validateData(baseline),[]));
+test('2026 cannot silently re-enter the dataset',()=>{const d=structuredClone(baseline);d.entries[0].year=2026;assert.match(validateData(d).join('\n'),/Out of scope/)});
+test('duplicate entries and wrong period are rejected',()=>{const d=structuredClone(baseline);d.entries[1].id=d.entries[0].id;d.entries[0].period='P6';assert.match(validateData(d).join('\n'),/Duplicate id/);assert.match(validateData(d).join('\n'),/Period mismatch/)});
+test('verified staff fields need field-specific dated sources',()=>{const d=structuredClone(baseline);d.entries[0].verifiedFields=['designer'];d.entries[0].sources=[];assert.match(validateData(d).join('\n'),/Unsourced verified field/)});
+test('official images cannot lose their citation or refer to missing works',()=>{const d=structuredClone(baseline);d.assets['not-a-work']={src:'/images/test.webp'};assert.match(validateData(d).join('\n'),/Unknown image entry/);assert.match(validateData(d).join('\n'),/Invalid image metadata/)});
+test('period ranges must cover the thirty years without gaps',()=>{const d=structuredClone(baseline);d.periods[1].range[0]=2001;assert.match(validateData(d).join('\n'),/Non-contiguous/)});

@@ -5,7 +5,7 @@
   <!-- Header -->
   <rect x="0" y="44" width="1440" height="56" fill="#FFFDF9"/>
   <line x1="0" y1="100" x2="1440" y2="100" stroke="#D9D2C5"/>
-  <text x="32" y="80" font-size="18" font-weight="700" fill="#1A1A1A">ACG 人物画风 1996–2026</text>
+  <text x="32" y="80" font-size="18" font-weight="700" fill="#1A1A1A">ACG 人物画风 1996–2025</text>
   <text x="1140" y="79" font-size="14" fill="#1A1A1A">时间轴</text>
   <text x="1220" y="79" font-size="14" fill="#6B6560">时期</text>
   <text x="1296" y="79" font-size="14" fill="#6B6560">方法</text>
@@ -25,7 +25,7 @@
     <text x="428" y="140">P3 2005–2009</text>
     <text x="648" y="140">P4 2010–2014</text>
     <text x="868" y="140">P5 2015–2019</text>
-    <text x="1088" y="140">P6 2020–2026</text>
+    <text x="1088" y="140">P6 2020–2025</text>
   </g>
 
   <!-- 四张卡片 -->
@@ -116,7 +116,7 @@
     <text x="1056" y="694">2020</text>
     <text x="1140" y="694">2022</text>
     <text x="1224" y="694">2024</text>
-    <text x="1308" y="694">2026</text>
+    <text x="1308" y="694">2025</text>
   </g>
 
   <!-- 当前年滑块 -->

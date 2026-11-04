@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""校验 data/*.json 并生成分时期代表作清单文档（docs/03–09）。
+"""校验 data/*.json 并生成分时期代表作清单文档（docs/03–08）。
 
 用法：
     python scripts/build_docs.py            # 校验 + 生成
     python scripts/build_docs.py --check    # 只校验
 
 约定：
-- 每年 4 条；1996–2025 为核心 120 条，2026 为观察位（status=provisional）。
+- 每年 4 条；1996–2025 为核心 120 条，不设观察位。
 - 同一作品只出现一次；同一创作者原则上不超过 2 次（超过时打印提示，不报错）。
 """
 
@@ -49,38 +49,7 @@ PERIOD_DOC = {
 }
 PROVISIONAL_DOC = "09-年度代表作-2026-观察中.md"
 
-YEAR_KEYWORD = {
-    1996: "冷色与细线：EVA 收束的那一年",
-    1997: "手绘剧场对样式美；3D 游戏脸的起点",
-    1998: "写实与内向：两条非萌路线",
-    1999: "弹性线条；美少女游戏第一次上电视",
-    2000: "数字上色定型；平井脸诞生",
-    2001: "国民动画脸与少女漫画的透明感",
-    2002: "平井脸大众化；三条路线同台",
-    2003: "圆轮廓配浓阴影；剧画式美形",
-    2004: "萌的战斗化；非动画涂的实验",
-    2005: "京阿尼 Key 系登场；松弛线条",
-    2006: "京阿尼脸确立；CLAMP 的长身",
-    2007: "实景光影；作画至上；插画师开始署名",
-    2008: "偶像脸与高光脸；动画师兼插画",
-    2009: "记号化的巅峰；平面化演出",
-    2010: "锐角与变形；插画的材质感",
-    2011: "萌的解构；泪水脸；写实美形",
-    2012: "信息量转向；游戏感；圆软化",
-    2013: "太线与厚涂；夸张体态；柔软的留白",
-    2014: "病态美形；喜剧表情；CG 预演",
-    2015: "作画狂欢；身体的写实；写实与美漫杂交",
-    2016: "全球化的脸；力量型太线；反精致",
-    2017: "可爱与残酷；CG 材质；油画感",
-    2018: "信息量的极致；meme 脸；极简留白",
-    2019: "浮世绘配数字特效；摄影化；可爱的恐怖",
-    2020: "记号回归；手绘动画论；赛璐璐 3D",
-    2021: "剧场尺度的记号；萌系运动；极简分镜",
-    2022: "网络插画师入场；帅气与可爱；高达萌系化",
-    2023: "静与去装饰；星瞳；中华风混血",
-    2024: "动态线条复古；和风纹样；CG 手绘化",
-    2025: "复古与先锋同框；电影感；写实设计的延续",
-}
+YEAR_KEYWORD: dict[int, str] = {}
 
 PERIOD_INTRO = {
     "P1": (
@@ -135,7 +104,7 @@ def validate(periods: dict, entries: list[dict]) -> list[str]:
     for e in entries:
         by_year[e["year"]].append(e)
 
-    for year in range(1996, 2027):
+    for year in range(1996, 2026):
         n = len(by_year.get(year, []))
         if n != 4:
             errors.append(f"{year} 年有 {n} 条，应为 4 条")
@@ -155,6 +124,8 @@ def validate(periods: dict, entries: list[dict]) -> list[str]:
     # 时期一致性
     range_of = {p["id"]: p["range"] for p in periods["periods"]}
     for e in entries:
+        if e['year'] not in range(1996, 2026) or e['status'] != 'core':
+            errors.append(f"范围外或非核心条目：{e['id']}")
         lo, hi = range_of[e["period"]]
         if not (lo <= e["year"] <= hi):
             errors.append(f"{e['id']} 的年份 {e['year']} 不在 {e['period']}（{lo}-{hi}）内")
@@ -192,9 +163,10 @@ def staff(e: dict) -> str:
     creator = e.get("creator") or "—"
     designer = e.get("designer") or ""
     org = e.get("org") or ""
+    original = e.get("originalDesigner") or ""
     if e["kind"] == "illustration":
         return "插画师"
-    line2 = " · ".join(x for x in [f"角色设计 {designer}" if designer else "", org] if x)
+    line2 = " · ".join(x for x in [f"角色原案 {original}" if original else "", f"角色设计 {designer}" if designer else "", org] if x)
     return f"{creator}<br><span>{line2}</span>" if line2 else creator
 
 
@@ -204,8 +176,9 @@ def render_period(period: dict, entries: list[dict], prev_next: str) -> str:
     lines: list[str] = []
     lines.append(f"# {period['label']} 年度代表作｜{period['name']}")
     lines.append("")
-    lines.append(f"> 分期：**{period['label']}｜{period['name']}——{period['subname']}**  ")
-    lines.append(f"> 一句话：{period['oneLiner']}  ")
+    lines.append(f"> 分期：**{period['label']}｜{period['name']}——{period['subname']}**")
+    lines.append(">")
+    lines.append(f"> 一句话：{period['oneLiner']}")
     lines.append(f"> 期关键词：{'、'.join(period['keywords'])}")
     lines.append("")
     lines.append(PERIOD_INTRO[pid])
@@ -216,7 +189,7 @@ def render_period(period: dict, entries: list[dict], prev_next: str) -> str:
 
     for year in years:
         rows = [e for e in entries if e["year"] == year]
-        lines.append(f"## {year}｜{YEAR_KEYWORD[year]}")
+        lines.append(f"## {year}｜{YEAR_KEYWORD.get(year, '四件样本的并行观察')}")
         lines.append("")
         lines.append("| # | 类别 | 作品 | 主创 / 制作 | 维度 | 入选理由 |")
         lines.append("|---|------|------|-------------|------|----------|")
@@ -244,51 +217,10 @@ def render_period(period: dict, entries: list[dict], prev_next: str) -> str:
     return "\n".join(lines)
 
 
-def render_provisional(period: dict, entries: list[dict]) -> str:
-    lines = [
-        "# 2026｜观察中的 4 个位置",
-        "",
-        "> 2026 年尚未结束（本文件更新于 2026-11-03），这 4 条是**预选与占位**，"
-        "不进入 1996–2025 的 120 条核心数据集（`status: provisional`）。",
-        "",
-        "## 为什么 2026 要单独放",
-        "",
-        "- 年度选片的标准是『事后看它是否改变了画风的方向』，越靠近现在越难判断。",
-        "- 2026 年秋番仍在播出，剧场版排期也有变动（例如《青春猪头少年》剧场版定于 2026-10-16）。",
-        "- 因此这里只给『值得看的观察位』，等 2027 年初再回填为正式条目。",
-        "",
-        "## 观察位",
-        "",
-        "| # | 类别 | 作品 | 主创 / 制作 | 维度 | 观察理由 |",
-        "|---|------|------|-------------|------|----------|",
-    ]
-    for i, e in enumerate(entries, 1):
-        lines.append(
-            f"| {i} | {KIND_LABEL[e['kind']]} | {work_name(e)} | {staff(e)} | "
-            f"{FACET_LABEL[e.get('facet', 'line')]} | {cell(e['why'])} |"
-        )
-    lines += [
-        "",
-        "## 2026 年还缺什么",
-        "",
-        "1. **漫画**：需要补一条 2026 年新连载（重点看《周刊少年 Jump》《Jump+》《Afternoon》的新人）。",
-        "2. **游戏**：需要补一条 2026 年新作（重点看日式 3D 角色的表情系统）。",
-        "3. **插画**：需要确认 2026 年是否有新的插画师进入动画角色设计。",
-        "4. **待核**：`2026-gits` 的监督/角色设计、`2026-denkimokuroku` 的角色设计尚未确认。",
-        "",
-        "> 回填方法：把 `data/entries.json` 中对应条目的 `status` 改为 `core`，`confidence` 改为 `high`，"
-        "并补齐 `designer` 字段，然后重新运行 `python scripts/build_docs.py`。",
-        "",
-        "---",
-        "",
-        "返回：[README](../README.md)｜[时期划分](01-时期划分.md)｜[画风研究](02-各时期画风研究.md)",
-        "",
-    ]
-    return "\n".join(lines)
-
-
 def main() -> int:
     periods, meta, entries = load()
+    PERIOD_INTRO.update({p["id"]: p["oneLiner"] for p in periods["periods"]})
+    PERIOD_INTRO.update({p["id"]: p["oneLiner"] for p in periods["periods"]})
     errors = validate(periods, entries)
     if errors:
         print("校验失败：")
@@ -327,10 +259,9 @@ def main() -> int:
             core_rows = [e for e in rows if e["status"] == "core"]
             prov = [e for e in rows if e["status"] == "provisional"]
             prev = f"上一期：[{periods['periods'][idx - 1]['label']}]({PERIOD_DOC[periods['periods'][idx - 1]['id']]})"
-            nxt = "[2026 观察位](09-年度代表作-2026-观察中.md)"
+            nxt = "[赏析规范](10-赏析写作规范与样例.md)"
             doc = render_period(period, core_rows, f"{prev}｜下一期：{nxt}")
             (DOCS / PERIOD_DOC[pid]).write_text(doc, encoding="utf-8")
-            (DOCS / PROVISIONAL_DOC).write_text(render_provisional(period, prov), encoding="utf-8")
         else:
             prev_p = periods["periods"][idx - 1]
             next_p = periods["periods"][idx + 1]

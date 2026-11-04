@@ -1,0 +1,11 @@
+---
+import Artwork from './Artwork.astro';
+import {kinds, facets} from '../lib/data';
+const {entry:e,index=0}=Astro.props;
+---
+<article class="work-card" data-kind={e.kind} style={`--i:${index}`}>
+  <a class="art-link" href={`/works/${e.id}/`} aria-label={`查看${e.zh}赏析`}><Artwork id={e.id} compact/><span class="art-arrow" aria-hidden="true">↗</span></a>
+  <div class="card-meta"><span>{String(index+1).padStart(2,'0')} / {kinds[e.kind]}</span><span>{facets[e.facet]}</span></div>
+  <h3><a href={`/works/${e.id}/`}>{e.zh}</a></h3><p class="card-why">{e.why}</p>
+  <div class="card-bottom"><span>{e.designer||e.creator||'主创待核'}</span><button type="button" data-compare={e.id} aria-label={`将${e.zh}加入对比`}>＋ 对比</button></div>
+</article>

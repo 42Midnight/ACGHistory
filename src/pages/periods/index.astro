@@ -1,0 +1,5 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {periods,entries} from '../../lib/data';
+---
+<Layout title="六个时期"><section class="shell page-heading"><p class="eyebrow">SIX CHAPTERS / 一种阅读的顺序</p><h1>画法的变化，<br/>总有不止一条路。</h1><p class="intro-text">用六个时期整理线索，把同期的差异一并保留。<br/>年份边界是研究工具，不是画风在某一天突然改变的断言。</p></section><section class="shell chapter-list">{periods.map((p,i)=><a href={`/periods/${p.id.toLowerCase()}/`} style={`--accent:${p.accent}`} data-reveal><span class="chapter-num">0{i+1}</span><div><span class="mono">{p.label} / {entries.filter(e=>e.period===p.id).length} 件样本</span><h2>{p.name}</h2><p>{p.oneLiner}</p></div><span class="chapter-arrow">↗</span></a>)}</section></Layout>

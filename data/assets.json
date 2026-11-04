@@ -1,0 +1,596 @@
+{
+  "2012-hyouka": {
+    "src": "/images/2012-hyouka.webp",
+    "source": "https://kotenbu.com/",
+    "originalUrl": "https://kotenbu.com/images/top120724main_visual1.jpg",
+    "credit": "©米澤穂信・角川書店／神山高校古典部OB会",
+    "alt": "冰菓官方图像",
+    "note": "官网2012年主视觉",
+    "accessedAt": "2026-11-04"
+  },
+  "1996-escaf": {
+    "src": "/images/1996-escaf.webp",
+    "source": "https://www.escaflowne.jp/",
+    "originalUrl": "https://www.escaflowne.jp/images/main.jpg",
+    "credit": "©サンライズ・バンダイビジュアル",
+    "alt": "天空之艾斯嘉科尼官方图像",
+    "note": "TV版官网主视觉；完整画面",
+    "accessedAt": "2026-11-04"
+  },
+  "2019-kimetsu": {
+    "src": "/images/2019-kimetsu.webp",
+    "source": "https://kimetsu.com/anime/risshihen/",
+    "originalUrl": "https://kimetsu.com/anime/risshihen/assets/img/top/kv.jpg",
+    "credit": "©吾峠呼世晴／集英社・アニプレックス・ufotable",
+    "alt": "鬼灭之刃官方图像",
+    "note": "TV立志篇主视觉",
+    "accessedAt": "2026-11-04"
+  },
+  "2025-gqux": {
+    "src": "/images/2025-gqux.webp",
+    "source": "https://gundam-official.com/gquuuuuux/character/",
+    "originalUrl": "https://gundam-official.com/gquuuuuux/glh/jp/character/2025/05/chara_01_01.png",
+    "credit": "©創通・サンライズ",
+    "alt": "机动战士Gundam GQuuuuuuX官方图像",
+    "note": "2025年官方角色图：阿玛特",
+    "accessedAt": "2026-11-04"
+  },
+  "2009-kon": {
+    "src": "/images/2009-kon.webp",
+    "source": "https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/chara01.html",
+    "originalUrl": "https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/images/chara_photo01_1.gif",
+    "credit": "©かきふらい・芳文社／桜高軽音部",
+    "alt": "轻音少女官方图像",
+    "note": "第一季存档官网角色图：平泽唯",
+    "accessedAt": "2026-11-04"
+  },
+  "1996-eva": {
+    "src": "/images/1996-eva.webp",
+    "source": "https://www.b-ch.com/titles/466/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/466/466_chara_001.jpg",
+    "credit": "©カラー／Project Eva.",
+    "alt": "新世纪福音战士官方图像",
+    "note": "TV版授权发行平台角色图：碇真嗣",
+    "accessedAt": "2026-11-04"
+  },
+  "2002-seed": {
+    "src": "/images/2002-seed.webp",
+    "source": "https://gundam-official.com/seed/seed/character/",
+    "originalUrl": "https://gundam-official.com/seed/assets/img/seed/chara/stand/chara1.png",
+    "credit": "©創通・サンライズ",
+    "alt": "机动战士高达SEED官方图像",
+    "note": "现存官网角色头像：基拉；后续发行资料",
+    "accessedAt": "2026-11-04"
+  },
+  "1996-ccs": {
+    "src": "/images/1996-ccs.webp",
+    "source": "https://www.kodansha.co.jp/comic/products/0000031602",
+    "originalUrl": "https://dvs-cover.kodansha.co.jp/0000031602/ErSBkW6cLORKHenzvV1ZFnXZP99vUf2Q9SF87uH0.jpg",
+    "credit": "©CLAMP／講談社",
+    "alt": "魔卡少女樱官方图像",
+    "note": "1996年单行本第1卷封面；漫画版本",
+    "accessedAt": "2026-11-04"
+  },
+  "1996-sakura": {
+    "src": "/images/1996-sakura.webp",
+    "source": "https://common.sakura-taisen.com/characters/1/",
+    "originalUrl": "https://common.sakura-taisen.com/assets/images/chara/1/chara_01.jpg",
+    "credit": "©SEGA",
+    "alt": "樱花大战官方图像",
+    "note": "初代角色的官网回顾图；非首发设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2023-frieren": {
+    "src": "/images/2023-frieren.webp",
+    "source": "https://www.b-ch.com/titles/8259/",
+    "originalUrl": "https://image2.b-ch.com/fix/8259h.png",
+    "credit": "©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会",
+    "alt": "葬送的芙莉莲官方图像",
+    "note": "2023年第一季授权发行平台宣传图",
+    "accessedAt": "2026-11-04"
+  },
+  "1998-lain": {
+    "src": "/images/1998-lain.webp",
+    "source": "https://www.b-ch.com/titles/164/",
+    "originalUrl": "https://image2.b-ch.com/fix/164h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)Geneon Universal Entertainment. ",
+    "alt": "玲音授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "1998-bebop": {
+    "src": "/images/1998-bebop.webp",
+    "source": "https://www.b-ch.com/titles/130/",
+    "originalUrl": "https://image2.b-ch.com/fix/130h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)サンライズ",
+    "alt": "星际牛仔授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "1997-utena": {
+    "src": "/images/1997-utena.webp",
+    "source": "https://www.b-ch.com/titles/978/",
+    "originalUrl": "https://image2.b-ch.com/fix/978h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)ビーパパス・さいとうちほ／小学館・少革委員会・テレビ東京",
+    "alt": "少女革命授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "1999-doremi": {
+    "src": "/images/1999-doremi.webp",
+    "source": "https://www.b-ch.com/titles/2610/",
+    "originalUrl": "https://image2.b-ch.com/fix/2610h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)東映アニメーション",
+    "alt": "小魔女DoReMi授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2000-argent": {
+    "src": "/images/2000-argent.webp",
+    "source": "https://www.b-ch.com/titles/156/",
+    "originalUrl": "https://image2.b-ch.com/fix/156h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)サンライズ・フライングドッグ",
+    "alt": "银之苏玛授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2001-furuba": {
+    "src": "/images/2001-furuba.webp",
+    "source": "https://www.b-ch.com/titles/688/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/688/688001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C) 高屋奈月／白泉社・テレビ東京・NAS・フルバ製作委員会",
+    "alt": "水果篮子授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2002-gits": {
+    "src": "/images/2002-gits.webp",
+    "source": "https://www.b-ch.com/titles/209/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/209/209001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)士郎正宗・Production I.G／講談社・攻殻機動隊製作委員会",
+    "alt": "攻壳机动队 STAND ALONE COMPLEX授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2003-hagane": {
+    "src": "/images/2003-hagane.webp",
+    "source": "https://www.b-ch.com/titles/215/",
+    "originalUrl": "https://image2.b-ch.com/fix/215h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通2003",
+    "alt": "钢之炼金术师授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2002-juuni": {
+    "src": "/images/2002-juuni.webp",
+    "source": "https://www.b-ch.com/titles/3246/",
+    "originalUrl": "https://image2.b-ch.com/fix/3246h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）小野不由美・講談社／ＮＨＫ・ＮＥＰ",
+    "alt": "十二国记授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2003-fumoffu": {
+    "src": "/images/2003-fumoffu.webp",
+    "source": "https://www.b-ch.com/titles/345/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/345/345001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)賀東招二・四季童子／陣代高校生徒会",
+    "alt": "全金属狂潮？Fumoffu授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2004-gankutsuou": {
+    "src": "/images/2004-gankutsuou.webp",
+    "source": "https://www.b-ch.com/titles/291/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/291/291001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2004 Mahiro Maeda・GONZO／KADOKAWA",
+    "alt": "岩窟王授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2004-nanoha": {
+    "src": "/images/2004-nanoha.webp",
+    "source": "https://www.b-ch.com/titles/6221/",
+    "originalUrl": "https://image2.b-ch.com/fix/6221h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）なのはPROJECT",
+    "alt": "魔法少女奈叶授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2005-air": {
+    "src": "/images/2005-air.webp",
+    "source": "https://www.b-ch.com/titles/3155/",
+    "originalUrl": "https://image2.b-ch.com/fix/3155h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)VisualArt&#39;s/Key/翼人伝承会",
+    "alt": "AIR授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2005-eureka": {
+    "src": "/images/2005-eureka.webp",
+    "source": "https://www.b-ch.com/titles/443/",
+    "originalUrl": "https://image2.b-ch.com/fix/443h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2005 BONES／Project EUREKA",
+    "alt": "交响诗篇授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2006-geass": {
+    "src": "/images/2006-geass.webp",
+    "source": "https://www.b-ch.com/titles/585/",
+    "originalUrl": "https://image2.b-ch.com/fix/585h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)SUNRISE／PROJECT GEASS　Character Design (C)2006 CLAMP・ST",
+    "alt": "叛逆的鲁路修授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2007-5cm": {
+    "src": "/images/2007-5cm.webp",
+    "source": "https://www.b-ch.com/titles/2944/",
+    "originalUrl": "https://image2.b-ch.com/fix/2944h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)Makoto Shinkai / CoMix Wave Films",
+    "alt": "秒速5厘米授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2008-macrossf": {
+    "src": "/images/2008-macrossf.webp",
+    "source": "https://www.b-ch.com/titles/1274/",
+    "originalUrl": "https://image2.b-ch.com/fix/1274h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2007 BIGWEST/MACROSS F PROJECT・MBS",
+    "alt": "超时空要塞F授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2008-toradora": {
+    "src": "/images/2008-toradora.webp",
+    "source": "https://www.b-ch.com/titles/1935/",
+    "originalUrl": "https://image2.b-ch.com/fix/1935h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)竹宮ゆゆこ／アスキー・メディアワークス／「とらドラ！」製作委員会",
+    "alt": "龙与虎授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2007-gurren": {
+    "src": "/images/2007-gurren.webp",
+    "source": "https://www.b-ch.com/titles/4447/",
+    "originalUrl": "https://image2.b-ch.com/fix/4447h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)中島かずき・今石洋之・プロジェクト「グレンラガン」",
+    "alt": "天元突破红莲螺岩授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2010-durarara": {
+    "src": "/images/2010-durarara.webp",
+    "source": "https://www.b-ch.com/titles/2424/",
+    "originalUrl": "https://image2.b-ch.com/fix/2424h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)成田良悟／アスキー・メディアワークス／池袋ダラーズ・MBS",
+    "alt": "无头骑士异闻录授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2009-bakemono": {
+    "src": "/images/2009-bakemono.webp",
+    "source": "https://www.b-ch.com/titles/2774/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/2774/2774001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)西尾維新／講談社・アニプレックス・シャフト",
+    "alt": "化物语授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2010-yojouhan": {
+    "src": "/images/2010-yojouhan.webp",
+    "source": "https://www.b-ch.com/titles/3750/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/3750/3750001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "イラスト／中村佑介 (C)四畳半主義者の会",
+    "alt": "四叠半神话大系授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2011-tigerbunny": {
+    "src": "/images/2011-tigerbunny.webp",
+    "source": "https://www.b-ch.com/titles/2963/",
+    "originalUrl": "https://image2.b-ch.com/fix/2963h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）BNP/T&B PARTNERS",
+    "alt": "老虎和兔子授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2012-chuuni": {
+    "src": "/images/2012-chuuni.webp",
+    "source": "https://www.b-ch.com/titles/3630/",
+    "originalUrl": "https://image2.b-ch.com/fix/3630h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)虎虎／京都アニメーション／中二病でも製作委員会",
+    "alt": "中二病也要谈恋爱授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2011-madoka": {
+    "src": "/images/2011-madoka.webp",
+    "source": "https://www.b-ch.com/titles/3071/",
+    "originalUrl": "https://image2.b-ch.com/fix/3071h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)Magica Quartet／Aniplex・Madoka Partners・MBS",
+    "alt": "魔法少女小圆授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2012-sao": {
+    "src": "/images/2012-sao.webp",
+    "source": "https://www.b-ch.com/titles/3332/",
+    "originalUrl": "https://image2.b-ch.com/fix/3332h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)川原 礫／アスキー・メディアワークス／SAO Project",
+    "alt": "刀剑神域授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2013-shingeki": {
+    "src": "/images/2013-shingeki.webp",
+    "source": "https://www.b-ch.com/titles/5585/",
+    "originalUrl": "https://image2.b-ch.com/fix/5585h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）諫山創・講談社／「進撃の巨人」製作委員会",
+    "alt": "进击的巨人授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2014-tokyoghoul": {
+    "src": "/images/2014-tokyoghoul.webp",
+    "source": "https://www.b-ch.com/titles/4223/",
+    "originalUrl": "https://image2.b-ch.com/fix/4223h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)石田スイ／集英社・東京喰種製作委員会",
+    "alt": "东京喰种授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2013-killlakill": {
+    "src": "/images/2013-killlakill.webp",
+    "source": "https://www.b-ch.com/titles/3867/",
+    "originalUrl": "https://image2.b-ch.com/fix/3867h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)TRIGGER・中島かずき／キルラキル製作委員会",
+    "alt": "斩服少女授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2014-nozaki": {
+    "src": "/images/2014-nozaki.webp",
+    "source": "https://www.b-ch.com/titles/4234/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/4234/4234001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)椿いづみ／スクウェアエニックス・「月刊少女野崎くん」製作委員会",
+    "alt": "月刊少女野崎同学授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2015-onepunch": {
+    "src": "/images/2015-onepunch.webp",
+    "source": "https://www.b-ch.com/titles/4888/",
+    "originalUrl": "https://image2.b-ch.com/fix/4888h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)ONE・村田雄介／集英社・ヒーロー協会本部",
+    "alt": "一拳超人授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2015-kekkai": {
+    "src": "/images/2015-kekkai.webp",
+    "source": "https://www.b-ch.com/titles/4513/",
+    "originalUrl": "https://image2.b-ch.com/fix/4513h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C) 2015 内藤泰弘／集英社・血界戦線製作委員会",
+    "alt": "血界战线授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2016-heroaca": {
+    "src": "/images/2016-heroaca.webp",
+    "source": "https://www.b-ch.com/titles/5130/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/5130/5130001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）堀越耕平／集英社・僕のヒーローアカデミア製作委員会",
+    "alt": "我的英雄学院授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2016-konosuba": {
+    "src": "/images/2016-konosuba.webp",
+    "source": "https://www.b-ch.com/titles/5001/",
+    "originalUrl": "https://image2.b-ch.com/fix/5001h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）2016 暁なつめ・三嶋くろね／KADOKAWA／このすば製作委員会",
+    "alt": "为美好的世界献上祝福！授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2016-kiminonawa": {
+    "src": "/images/2016-kiminonawa.webp",
+    "source": "https://www.b-ch.com/titles/5634/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/5634/5634001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）2016「君の名は。」製作委員会",
+    "alt": "你的名字。授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2017-madeinabyss": {
+    "src": "/images/2017-madeinabyss.webp",
+    "source": "https://www.b-ch.com/titles/5688/",
+    "originalUrl": "https://image2.b-ch.com/fix/5688h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）2017つくしあきひと・竹書房／メイドインアビス製作委員会",
+    "alt": "来自深渊授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2015-euphonium": {
+    "src": "/images/2015-euphonium.webp",
+    "source": "https://www.b-ch.com/titles/4540/",
+    "originalUrl": "https://image2.b-ch.com/fix/4540h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）武田綾乃・宝島社／『響け！』製作委員会",
+    "alt": "吹响！上低音号授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2018-popteam": {
+    "src": "/images/2018-popteam.webp",
+    "source": "https://www.b-ch.com/titles/5873/",
+    "originalUrl": "https://image2.b-ch.com/fix/5873h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）大川ぶくぶ／竹書房・キングレコード",
+    "alt": "pop子和pipi美的日常授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2017-houseki": {
+    "src": "/images/2017-houseki.webp",
+    "source": "https://www.b-ch.com/titles/5803/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/5803/5803001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2017 市川春子・講談社／「宝石の国」製作委員会",
+    "alt": "宝石之国授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2018-liz": {
+    "src": "/images/2018-liz.webp",
+    "source": "https://www.b-ch.com/titles/7021/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/7021/7021001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)武田綾乃・宝島社／『響け！』製作委員会",
+    "alt": "利兹与青鸟授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2019-tenki": {
+    "src": "/images/2019-tenki.webp",
+    "source": "https://www.b-ch.com/titles/6948/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/6948/6948001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2019「天気の子」製作委員会",
+    "alt": "天气之子授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2020-jujutsu": {
+    "src": "/images/2020-jujutsu.webp",
+    "source": "https://www.b-ch.com/titles/7071/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/7071/7071001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)芥見下々／集英社・呪術廻戦製作委員会",
+    "alt": "咒术回战授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2020-eizouken": {
+    "src": "/images/2020-eizouken.webp",
+    "source": "https://www.b-ch.com/titles/6892/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/6892/6892001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）2020 大童澄瞳・小学館／「映像研」製作委員会",
+    "alt": "别对映像研出手！授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2019-yakusoku": {
+    "src": "/images/2019-yakusoku.webp",
+    "source": "https://www.b-ch.com/titles/6380/",
+    "originalUrl": "https://image2.b-ch.com/fix/6380h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C）白井カイウ・出水ぽすか／集英社・約束のネバーランド製作委員会",
+    "alt": "约定的梦幻岛授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2021-jjk0": {
+    "src": "/images/2021-jjk0.webp",
+    "source": "https://www.b-ch.com/titles/8038/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/8038/8038001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C) 2021 「劇場版 呪術廻戦 0」製作委員会　(C)芥見下々／集英社",
+    "alt": "咒术回战0授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2021-umamusume2": {
+    "src": "/images/2021-umamusume2.webp",
+    "source": "https://www.b-ch.com/titles/7176/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/7176/7176001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C） 2021 アニメ「ウマ娘 プリティーダービー Season 2」製作委員会",
+    "alt": "赛马娘 第二季授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2022-lycoris": {
+    "src": "/images/2022-lycoris.webp",
+    "source": "https://www.b-ch.com/titles/7786/",
+    "originalUrl": "https://image2.b-ch.com/fix/7786h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)Spider Lily／アニプレックス・ABCアニメーション・BS11",
+    "alt": "莉可丽丝授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2023-kusuriya": {
+    "src": "/images/2023-kusuriya.webp",
+    "source": "https://www.b-ch.com/titles/8295/",
+    "originalUrl": "https://image2.b-ch.com/fix/8295h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会",
+    "alt": "药屋少女的呢喃授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2022-bocchi": {
+    "src": "/images/2022-bocchi.webp",
+    "source": "https://www.b-ch.com/titles/7876/",
+    "originalUrl": "https://image2.b-ch.com/fix/7876h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)はまじあき／芳文社・アニプレックス",
+    "alt": "孤独摇滚！授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2022-gwitch": {
+    "src": "/images/2022-gwitch.webp",
+    "source": "https://gundam-official.com/witch-from-mercury/character/1/",
+    "originalUrl": "https://gundam-official.com/witch-from-mercury/gwitch/jp/character/2023/04/01_front.png",
+    "credit": "©サンライズ・MBS",
+    "alt": "机动战士高达 水星的魔女官方图像",
+    "note": "官网角色正面图：苏莱塔；现存2023年资料，不作为2022年首发设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2024-dandadan": {
+    "src": "/images/2024-dandadan.webp",
+    "source": "https://www.b-ch.com/titles/8790/",
+    "originalUrl": "https://image2.b-ch.com/fix/8790h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)龍幸伸／集英社・ダンダダン製作委員会",
+    "alt": "胆大党授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2023-oshinoko": {
+    "src": "/images/2023-oshinoko.webp",
+    "source": "https://www.b-ch.com/titles/8081/",
+    "originalUrl": "https://image2.b-ch.com/fix/8081h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会",
+    "alt": "【我推的孩子】授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2025-lazarus": {
+    "src": "/images/2025-lazarus.webp",
+    "source": "https://www.b-ch.com/titles/9084/",
+    "originalUrl": "https://image2.b-ch.com/fix/9084h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2024 The Cartoon Network, Inc. All Rights Reserved",
+    "alt": "拉撒路授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2024-gbc": {
+    "src": "/images/2024-gbc.webp",
+    "source": "https://www.b-ch.com/titles/8515/",
+    "originalUrl": "https://image2.b-ch.com/fix/8515h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)東映アニメーション",
+    "alt": "少女乐队呐喊授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2024-nige": {
+    "src": "/images/2024-nige.webp",
+    "source": "https://www.b-ch.com/titles/8663/",
+    "originalUrl": "https://image2.b-ch.com/fix/8663h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)松井優征／集英社・逃げ上手の若君製作委員会",
+    "alt": "擅长逃跑的殿下授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  },
+  "2011-anohana": {
+    "src": "/images/2011-anohana.webp",
+    "source": "https://www.b-ch.com/titles/4475/",
+    "originalUrl": "https://image2.b-ch.com/fix/4475h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "（C)ANOHANA PROJECT ",
+    "alt": "未闻花名授权发行宣传图",
+    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
+    "accessedAt": "2026-11-04"
+  }
+}

@@ -1,0 +1,11 @@
+import dataset from '../../data/entries.json';
+import periodsData from '../../data/periods.json';
+import essaysData from '../../data/essays.json';
+import assetsData from '../../data/assets.json';
+export const entries = dataset.entries;
+export const periods = periodsData.periods;
+export const essays = essaysData as Record<string, {lead:string; sections:string[][]}>;
+export const assets = assetsData as Record<string, {src:string; source:string; credit:string; alt:string; note:string}>;
+export const kinds:Record<string,string>={anime:'动画', manga:'漫画', game:'游戏', illustration:'插画'};
+export const facets:Record<string,string>={line:'线条',eye:'眼睛',face:'脸型',color:'人物用色',body:'体态',hair:'头发',staging:'表情与姿态',texture:'材质',proportion:'比例'};
+export const getPeriod=(id:string)=>periods.find(p=>p.id===id)!;

@@ -1,0 +1,13 @@
+---
+import fs from 'node:fs';
+import {marked} from 'marked';
+import Layout from '../../layouts/Layout.astro';
+import WorkCard from '../../components/WorkCard.astro';
+import {periods,entries} from '../../lib/data';
+export function getStaticPaths(){return periods.map((p,index)=>({params:{id:p.id.toLowerCase()},props:{p,index}}))}
+const {p,index}=Astro.props;
+const source=fs.readFileSync(new URL('../../../docs/02-各时期画风研究.md',import.meta.url),'utf8');
+const chapter=source.split(new RegExp(`^# ${p.id}｜[^\\n]*\\n`,'m'))[1]?.split(/^# /m)[0]||'';
+const html=marked.parse(chapter);
+---
+<Layout title={`${p.label} · ${p.name}`}><section class="shell chapter-hero" style={`--accent:${p.accent}`}><a class="back-link" href="/periods/">← 六个时期</a><p class="eyebrow">CHAPTER 0{index+1} / {p.label}</p><h1>{p.name}</h1><p class="intro-text">{p.subname}</p><div class="tag-row">{p.keywords.map(k=><span>{k}</span>)}</div></section><div class="shell article-layout"><aside><span class="mono">READING NOTES</span><p>看人物的画法，<br/>也看同年的不同答案。</p><a href={`/timeline/?year=${p.range[0]}`}>探索本期时间轴 ↗</a></aside><article class="prose"><p class="notice">本章描述所选样本的观察倾向。没有全行业统计，不据此推定多数作品的画法或产业因果。</p><div set:html={html}/></article></div><section class="shell period-works"><div class="section-head"><h2>回到作品本身。</h2><span class="mono">{entries.filter(e=>e.period===p.id).length} ENTRIES</span></div><div class="work-grid">{entries.filter(e=>e.period===p.id).map((e,i)=><WorkCard entry={e} index={i}/>)}</div></section><nav class="shell chapter-nav" aria-label="时期前后翻页">{index>0?<a href={`/periods/${periods[index-1].id.toLowerCase()}/`}>← {periods[index-1].name}</a>:<a href="/periods/">← 全部时期</a>}{index<5?<a href={`/periods/${periods[index+1].id.toLowerCase()}/`}>{periods[index+1].name} →</a>:<a href="/timeline/?year=2025">探索 2025 →</a>}</nav></Layout>
