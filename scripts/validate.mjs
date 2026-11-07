@@ -38,6 +38,7 @@ export function check(release=false){
  if(release){for(const e of entries){if(!assets[e.id])errors.push(`Missing release image ${e.id}`);if(!essays[e.id])errors.push(`Missing release essay ${e.id}`);if(!e.sources?.length)errors.push(`Missing release sources ${e.id}`);}}
  if(errors.length)throw new Error(errors.join('\n'));
  console.log(`Data OK: ${entries.length} entries, 30 years, 6 periods, ${Object.keys(assets).length} official images, ${Object.keys(essays).length} essays.`);
- console.log(`Editorial remaining: ${120-Object.keys(assets).length} images; ${120-Object.keys(essays).length} expanded essays. This is a local review build.`);
+ if(release)console.log('Release coverage OK: every entry has an image, an expanded essay and a source entry. Rights clearance and field verification still require human review.');
+ else console.log(`Coverage: ${Object.keys(assets).length}/120 images; ${Object.keys(essays).length}/120 expanded essays. Local review build; public rights review still required.`);
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){try{check(process.argv.includes('--release'));}catch(e){console.error(e.message);process.exitCode=1;}}

@@ -48,7 +48,16 @@
       "status": "core",
       "confidence": "medium",
       "order": 1,
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/466/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1996-escaf",
@@ -70,7 +79,16 @@
       "why": "结城信辉的端正五官与修长体态，是90年代『漂亮系』的标本：鼻梁挺直、下颌线清晰，与EVA的『削瘦』互为反面。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.escaflowne.jp/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1996-ccs",
@@ -92,7 +110,16 @@
       "why": "CLAMP以装饰性大眼、纤细手腕与发饰组织人物，适合与同年动画、游戏的五官表现比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kodansha.co.jp/comic/products/0000031602",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1996-sakura",
@@ -114,7 +141,16 @@
       "why": "藤岛康介的角色设计以清晰五官、发型和衣装轮廓建立辨识度，是本组游戏人物与动画样式互相参照的案例。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://common.sakura-taisen.com/characters/1/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1997-mononoke",
@@ -136,7 +172,16 @@
       "why": "与EVA相反的一极：圆脸、粗轮廓、以动作而非符号塑造人物。宫崎骏的脸不追求美，追求『能跑能呼吸』。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.ghibli.jp/works/mononoke/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1997-utena",
@@ -158,7 +203,16 @@
       "why": "长谷川真也把人物画成锐角与装饰图形，配合几原的舞台化构图——『脸』在本组样本中鲜明地被当作平面设计来用。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/978/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1997-onepiece",
@@ -180,7 +234,16 @@
       "why": "夸张的四肢与身体变形强调动作方向和角色辨识度，可用于观察少年漫画对人体比例的主动改写。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.shonenjump.com/j/rensai/onepiece.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1997-ff7",
@@ -202,7 +265,16 @@
       "why": "野村哲也的角色绘与游戏中的不同人物表现形成跨媒介对照：观察发型剪影、服装分区和身体比例，区分原画与游戏画面。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.jp.square-enix.com/ffvii_remake/character/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1998-bebop",
@@ -224,7 +296,16 @@
       "why": "川元利浩设计的成人五官、修长身体与松弛姿态，提供与同期装饰性大眼不同的人物路线。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/130/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1998-lain",
@@ -285,7 +366,16 @@
       "why": "冨樫义博以轮廓、线条密度和身体比例区分人物，可观察同一作品中清爽与密集画法的并存。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.shonenjump.com/j/rensai/hunter.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1998-mgs",
@@ -307,7 +397,16 @@
       "why": "新川洋司以水墨式笔触与军事写实，证明游戏人物可以靠『手绘的脏』而不是可爱来立住。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://store.steampowered.com/app/2131630/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1999-doremi",
@@ -329,7 +428,16 @@
       "why": "马越嘉彦的弹性轮廓与夸张表情，让线条随情绪和动作伸缩；适合比较稳定造形与变形表演。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2610/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1999-toheart",
@@ -351,7 +459,16 @@
       "why": "美少女游戏人物转为TV动画的比较案例：观察大眼、小鼻口与发束分组如何组成清晰的脸部记号。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/521/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1999-hikaru",
@@ -373,7 +490,16 @@
       "why": "小畑健以清晰轮廓、端正五官和细致发束区分人物，可与其后续漫画比较面部阴影和眼神。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2188/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "1999-vp",
@@ -395,7 +521,16 @@
       "why": "吉成钢的厚涂与锐利轮廓，给『暗色幻想』提供了与萌系完全相反的技术方案：靠材质而不是靠符号。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.jp.square-enix.com/vp_lenneth/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2000-flcl",
@@ -417,7 +552,16 @@
       "why": "平松祯史的角色设计在简省五官、锐利轮廓与夸张身体之间切换，是观察OVA人物变形的样本。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.adultswim.com/videos/flcl",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2000-argent",
@@ -439,7 +583,16 @@
       "why": "平井久司设计的人物以突出的眼部、小鼻口和尖束头发形成辨识度，可与2002年《SEED》比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/156/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2000-hachikuro",
@@ -461,7 +614,16 @@
       "why": "羽海野千花以轻松笔触、柔和用色和细微表情组织人物，提供与同期锐利轮廓不同的漫画样本。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4120/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2000-murata",
@@ -484,7 +646,16 @@
       "why": "村田莲尔的人物插画可观察纤细轮廓、眼睑与服装结构之间的关系；具体归年仍需代表作品锚点。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.pseweb.com/page/gallery_i018.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2001-spirited",
@@ -506,7 +677,16 @@
       "why": "圆润轮廓与简省五官配合具体的身体动作，可作为同期装饰性大眼路线的对照。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.ghibli.jp/works/chihiro/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2001-furuba",
@@ -528,7 +708,16 @@
       "why": "2001年动画版以柔和脸部轮廓、细长眼型与轻淡人物用色形成观察入口，需与后续重制版本分开。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/688/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2001-bleach",
@@ -550,7 +739,16 @@
       "why": "久保带人以『设计感』取胜：大面积黑白、锐利的剪影与留白，少年漫画开始像时尚杂志。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://promo.shonenjump.com/bleach/artselection/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2001-ff10",
@@ -572,7 +770,16 @@
       "why": "比较人物原画与游戏画面中的眼型、头发和身体比例，也可与1997年《FFVII》区分媒介条件后对照。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://store.steampowered.com/app/359870/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2002-seed",
@@ -594,7 +801,16 @@
       "why": "平井久司的眼型、小鼻口与尖束发型形成清晰的角色语汇；可与其早期作品及同期成人五官路线比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://gundam-official.com/seed/seed/character/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2002-juuni",
@@ -692,7 +908,16 @@
       "why": "大暮维人以密集线条、服饰细节和身体透视强调人物动势，可比较装饰信息与轮廓识别之间的关系。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2238/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2003-hagane",
@@ -714,7 +939,16 @@
       "why": "圆润面部轮廓与强烈人物阴影并存，适合观察角色在平静表情、喜剧变形和紧张动作间的变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/215/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2003-fumoffu",
@@ -736,7 +970,16 @@
       "why": "圆润五官、夸张嘴形和大幅身体动作服务喜剧表演，可与同公司后续作品比较设计者之间的差异。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/345/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2003-deathnote",
@@ -758,7 +1001,16 @@
       "why": "小畑健用剧画式阴影与锐利眼神，把『美形』推向阴郁与智性——从《棋魂》到《死亡笔记》，他的线一直在变硬。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.ntv.co.jp/deathnote/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2003-smt3",
@@ -780,7 +1032,16 @@
       "why": "金子一马以冷硬的色面、鲜明的身体标记与恶魔式轮廓组织人物，提供与同期圆润大眼设计不同的对照。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://shin-megamitensei.jp/3hd/story_character/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2004-nanoha",
@@ -802,7 +1063,16 @@
       "why": "『萌+魔法少女+战斗』的组合定型，00年代中期的角色消费模板：可爱是入口，战斗力是留客手段。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/6221/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2004-gankutsuou",
@@ -860,7 +1130,16 @@
       "why": "细线、写实人体配上古怪的吉祥物，青年漫画保留了『手绘的笨拙』，这是萌系工业化之外的另一条路。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4122/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2004-itoi",
@@ -883,7 +1162,16 @@
       "why": "伊东杂音的轻小说人物插画以鲜明发色、装饰性大眼和服装轮廓建立辨识度；归年需具体代表作品来源。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kadokawa.co.jp/product/200403000353/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2005-air",
@@ -906,7 +1194,16 @@
       "why": "荒谷朋惠负责的动画角色设计，保留鲜明的大眼、小鼻口与纤细体态；可与2012年的《中二病》比较同一公司不同设计者的选择。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/3155/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2005-eureka",
@@ -928,7 +1225,16 @@
       "why": "吉田健一的松弛线条与生活感，证明『画得不紧』是一种能力——『能呼吸的线条』成了作画派的口号。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/443/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2005-kimini",
@@ -950,7 +1256,16 @@
       "why": "圆脸+柔光的少女漫画主流，把『保守的可爱』维持到2010年代，成为纯爱影像的视觉底稿。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.ntv.co.jp/kiminitodoke/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2005-abyss",
@@ -972,7 +1287,16 @@
       "why": "藤岛康介式端正美形的成熟版：从1996年《樱花大战》到2005年《深渊传说》，同一种脸在十年间被稳定供给。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.tv-toa.jp/character/01.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2006-haruhi",
@@ -994,7 +1318,16 @@
       "why": "大眼、圆润脸部和清晰发型构成人物辨识度，适合与同公司前后作品比较；不据单作推断整个行业的主流转向。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/6566/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2006-geass",
@@ -1016,7 +1349,16 @@
       "why": "CLAMP原案的『长身+锐角』被木村贵宏翻译成动画：四肢被拉长到极限，与同年的萌系圆脸正面分庭抗礼。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/585/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2006-kuroshitsuji",
@@ -1038,7 +1380,16 @@
       "why": "枢梁的哥特式美少年与繁复服饰，把『装饰性』推向女性向的极致：头发、蕾丝、缎带都是画风的一部分。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/1646/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2006-ff12",
@@ -1060,7 +1411,16 @@
       "why": "吉田明彦的角色绘重视五官结构、衣装层次和较柔和的色面，可与游戏中的立体人物分开比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.jp.square-enix.com/ff12_tza/character/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2007-5cm",
@@ -1079,10 +1439,19 @@
         "写实人体",
         "独立制作"
       ],
-      "why": "观察西尾铁也设计的人物如何以发束、较简省的五官和肤色阴影保持辨识度；不将背景光影作为人物画风结论。",
+      "why": "观察西村贵世设计的人物如何以发束、较简省的五官和肤色阴影保持辨识度；不将背景光影作为人物画风结论。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2944/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2007-gurren",
@@ -1104,7 +1473,16 @@
       "why": "今石洋之与锦织敦史把变形推到极端：人物可以随时扭曲成符号，作画至上主义在此达到顶点。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4447/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2007-chihaya",
@@ -1126,7 +1504,16 @@
       "why": "末次由纪的纤细线条与和服动态，把少女漫画的表情精度提到了新高度：眼睛会因竞技的紧张而收缩。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.ntv.co.jp/chihayafuru2/character/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2007-kei",
@@ -1149,7 +1536,16 @@
       "why": "KEI以青绿色双马尾、服装配色与修长轮廓建立初音未来的角色记号，可观察插画设计如何在不同媒介中被识别。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://piapro.net/intl/en.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2008-macrossf",
@@ -1207,7 +1603,16 @@
       "why": "田中将贺的角色设计可从眼角、脸颊与夸张嘴形入手，比较圆润轮廓和带棱角的表情变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/1935/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2008-kanzaki",
@@ -1230,7 +1635,16 @@
       "why": "动画与轻小说插画之间的跨媒介作者案例：可比较人物的眼型、发束和轮廓；具体归年仍需代表作品锚点。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kadokawa.co.jp/product/200807000254/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2008-p4",
@@ -1252,7 +1666,16 @@
       "why": "副岛成记以清晰轮廓、发型和对比鲜明的人物配色建立角色记号，可与其后续作品的五官及姿态比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.atlus.co.jp/title-archive/p4/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2009-kon",
@@ -1274,7 +1697,16 @@
       "why": "堀口悠纪子的角色设计以圆润脸颊、小鼻口和松弛体态形成辨识度；与2012年《冰菓》比较时关注作者差异。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/chara01.html",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2009-bakemono",
@@ -1296,7 +1728,16 @@
       "why": "渡边明夫设计的人物可从眼睑、尖细发束与清晰色面入手，比较稳定造形与夸张表情之间的变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2774/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2009-aku",
@@ -1318,7 +1759,16 @@
       "why": "押见修造的写实而令人不适的线条，把『丑』与『真实』带进人物画——它是萌系高峰旁边最刺眼的反面。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kodansha.co.jp/titles/1000004978",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2009-vofan",
@@ -1341,7 +1791,16 @@
       "why": "VOFAN的轻小说插画重视人物肤色与受光的关系；归年与代表作品仍需补充作品级出处。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kodansha.co.jp/book/products/0000208722",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2010-durarara",
@@ -1363,7 +1822,16 @@
       "why": "岸田隆宏的锐角与装饰性设计，把都会群像画成一群不好惹的年轻人，网络世代审美的先声。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/2424/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2010-yojouhan",
@@ -1426,7 +1894,16 @@
       "why": "huke的人物插画以暗色面、鲜明眼部和机械性装饰形成辨识度；代表作品、版本与归年仍需补充出处。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://blackrockshooter.jp/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2010-nier",
@@ -1448,7 +1925,16 @@
       "why": "荒废世界里的『脆弱感』造形，给游戏人物提供了与萌系完全相反的情绪出口：越苍白越有说服力。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.jp.square-enix.com/nierarchive/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2011-madoka",
@@ -1470,7 +1956,16 @@
       "why": "苍树梅的『圆脸萌』被拆解成恐怖：可爱在本组样本中鲜明地被当作反讽工具，角色设计与叙事在此互为武器。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/3071/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2011-anohana",
@@ -1492,7 +1987,16 @@
       "why": "田中将贺设计的人物可从眼角、虹膜高光与眉口位置入手，比较平静和流泪表情中的五官变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4475/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2011-tigerbunny",
@@ -1553,7 +2057,16 @@
       "why": "新川直司的锐利而干净的线条，把『透明感』从少女漫画借到少年漫画，为2014年的动画化提供底稿。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kimiuso.jp/character/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2012-hyouka",
@@ -1611,7 +2124,16 @@
       "why": "足立慎吾设计的人物以清晰眼型、尖束头发和服装色块形成辨识度，可与同期作品比较面部阴影和衣装质感。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/3332/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2012-chuuni",
@@ -1633,7 +2155,16 @@
       "why": "与2005年《AIR》同门，却是完全不同的脸：更圆、更软、更强调『可爱』的演出，七年间京阿尼的自我位移。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/3630/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2012-haikyuu",
@@ -1655,7 +2186,16 @@
       "why": "古馆春一的强烈线条与身体透视，把运动漫画的『动势美学』推到新高度：汗、肌肉、视线的方向都是画风。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.shonenjump.com/j/rensai/haikyu.html",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2013-shingeki",
@@ -1677,7 +2217,16 @@
       "why": "浅野恭司设计的人物以鲜明外轮廓、面部阴影和紧张体态呈现力量感，可与同期日常题材对照。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5585/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2013-killlakill",
@@ -1699,7 +2248,16 @@
       "why": "すしお的极端夸张体态与锐角，把『作画』本身变成卖点：人物可以不合解剖，只要够有势能。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/3867/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2013-koenokatachi",
@@ -1721,7 +2279,16 @@
       "why": "大今良时以柔软轮廓、克制的眉口变化与人物间的身体距离表达情绪，是观察细微表情的漫画样本。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://koenokatachi-movie.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2013-ff14",
@@ -1743,7 +2310,16 @@
       "why": "吉田明彦的人物原画可从衣装结构、脸部体积与色面入手；原画和游戏中的角色表现需分别比较。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://jp.finalfantasyxiv.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2014-tokyoghoul",
@@ -1765,7 +2341,16 @@
       "why": "中嶋敦子的角色设计可比较正常眼睛与赫眼的变化，以及细长五官、发束和阴影共同形成的紧张感。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4223/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2014-nozaki",
@@ -1787,7 +2372,16 @@
       "why": "谷口淳一郎把少女漫画的『夸张表情』动画化，证明喜剧向人物设计可以靠表情本身撑起作品。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4234/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2014-dungeon",
@@ -1809,7 +2403,16 @@
       "why": "九井谅子的细线与严密设定，给『奇幻日常』提供了人物造形的新范式：可爱而不幼稚，复杂而不脏。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kadokawa.co.jp/product/301411000826/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2014-rakuten",
@@ -1831,7 +2434,16 @@
       "why": "齋藤将嗣设计的人物以清晰色块、发束轮廓与服装分区形成辨识度，关注人物外观和表情，不扩展技术流程史。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://rakuen-tsuiho.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2015-onepunch",
@@ -1853,7 +2465,16 @@
       "why": "久保田誓的简化脸配上顶级动作作画：脸越简单，动作越可以疯狂，人物表现力被重新分配。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4888/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2015-euphonium",
@@ -1875,7 +2496,16 @@
       "why": "京阿尼把『日常』拍到极致：手指、膝盖、呼吸都被写实化，人物在本组样本中鲜明地靠『身体的存在感』而非脸取胜。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4540/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2015-kekkai",
@@ -1897,7 +2527,16 @@
       "why": "川元利浩设计的人物结合明确面部骨点、装饰性衣装与夸张表情，可与《星际牛仔》比较相同设计师的变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/4513/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2015-yoneyama",
@@ -1920,7 +2559,16 @@
       "why": "米山舞的人物插画把动态姿态、鲜明色块与发束轮廓结合；本席位的具体代表作品与发表时间仍待核对。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://yoneyamai.com/category-all/page5/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2016-kiminonawa",
@@ -1942,7 +2590,16 @@
       "why": "田中将贺的角色设计适合观察眼型、发束与较自然的身体比例，比较对象是其早期角色设计样本。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5634/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2016-heroaca",
@@ -1964,7 +2621,16 @@
       "why": "马越嘉彦的太线+弹性变形，把美式漫画的力量感接进日式人物：线条粗、动作大、表情狠。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5130/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2016-konosuba",
@@ -1986,7 +2652,16 @@
       "why": "刻意『崩坏』的线条与摇摆作画，把『画得歪』变成喜剧语言，反精致化成为一条可复制的路线。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5001/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2016-p5",
@@ -2008,7 +2683,16 @@
       "why": "副岛成记的人物以鲜明剪影、发型和高对比配色建立辨识度，可与2008年《P4》比较眼型及身体姿态。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://persona5.jp/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2017-madeinabyss",
@@ -2030,7 +2714,16 @@
       "why": "黄濑和哉的可爱画风与残酷世界形成落差：萌系被当作诱饵，人物比例本身就是叙事装置。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5688/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2017-houseki",
@@ -2052,7 +2745,16 @@
       "why": "宝石角色的头发光泽、清晰色面与简省五官构成独特质感，适合观察人物材质与表情的关系。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5803/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2017-blueperiod",
@@ -2074,7 +2776,16 @@
       "why": "山口つばさ以绘画本身为题，人物的表情与笔触带油画感：漫画在本组样本中鲜明地可以『用画材来演情绪』。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://blue-period.jp/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2017-nierautomata",
@@ -2096,7 +2807,16 @@
       "why": "吉田明彦的『人偶感』造形让2B成为全球性的角色符号：眼睛被遮住，反而更有表情。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.jp.square-enix.com/nierautomata/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2018-violet",
@@ -2118,7 +2838,16 @@
       "why": "高濑亚贵子设计的人物重视虹膜、发束及衣装的层次，可比较近景细节与中远景轮廓的分工。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://violet-evergarden.jp/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2018-popteam",
@@ -2140,7 +2869,16 @@
       "why": "故意粗糙的『梗图脸』进入电视动画：网络meme美学在本组样本中鲜明地被正当地当作画风来用。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/5873/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2018-chainsaw",
@@ -2162,7 +2900,16 @@
       "why": "藤本树用潦草线条与电影式分镜，画出一张『不像少年漫画』的脸：脏、松弛、突然安静。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://chainsawman.dog/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2018-liz",
@@ -2184,7 +2931,16 @@
       "why": "西屋太志设计的人物以纤细轮廓、较多留白和微小姿态变化组织表情，可与《冰菓》比较，不能据此推断作者意图。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/7021/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2019-kimetsu",
@@ -2206,7 +2962,16 @@
       "why": "松岛晃的角色设计以鲜明眉眼、发束轮廓及服饰纹样区分人物，适合比较线条、色块与装饰的关系。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://kimetsu.com/anime/risshihen/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2019-tenki",
@@ -2228,7 +2993,16 @@
       "why": "比较人物的发束、眼型与肤色阴影，观察田中将贺在不同作品中的连续与变化。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/6948/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2019-yakusoku",
@@ -2250,7 +3024,16 @@
       "why": "儿童角色的圆脸大眼被用于惊悚：可爱与恐怖共享同一套五官，这是日式人物设计最擅长的翻转。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/6380/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2019-fe3h",
@@ -2272,7 +3055,16 @@
       "why": "仓花千夏的人物设计以眼型、发型和衣装层次区分角色，可比较同一系列中不同设计者的五官语汇。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.nintendo.com/jp/switch/anvya/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2020-jujutsu",
@@ -2294,7 +3086,16 @@
       "why": "平松祯史的『记号化』回归：线条刻意简省，表情靠符号与留白——从FLCL的狂欢回到极简。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/7071/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2020-eizouken",
@@ -2316,7 +3117,16 @@
       "why": "浅野直之把作画过程本身变成人物表演：线条会犹豫、会重来，『画』的动作成为角色性格。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/6892/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2020-genshin",
@@ -2339,7 +3149,16 @@
       "status": "core",
       "confidence": "medium",
       "regionNote": "中国 · miHoYo；作为日式人物视觉传统的跨国案例纳入，非日本IP。",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://genshin.hoyoverse.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2020-lam",
@@ -2362,7 +3181,16 @@
       "why": "LAM的人物插画以高饱和色块、鲜明眼部与强对比轮廓建立辨识度；本席位需补代表作品和发表时间。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://lam-illust.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2021-jjk0",
@@ -2384,7 +3212,16 @@
       "why": "同一套记号在剧场尺度上的完成形：线条更少，留白更大，情绪反而更满。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/8038/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2021-umamusume2",
@@ -2442,7 +3279,16 @@
       "why": "极简线条与电影式分镜，把『漫画的呼吸』做到极致：留白本身就是人物。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://lookback-anime.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2021-arise",
@@ -2464,7 +3310,16 @@
       "why": "岩本稔的『水彩+赛璐璐』给出JRPG人物设计的新基准：色块有水痕，边缘有笔触。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.bandainamcoent.com/games/tales-of-arise",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2022-bocchi",
@@ -2486,7 +3341,16 @@
       "why": "けろりら的松弛线条与夸张表情：网络插画师直接进入动画角色设计，表情包语法被搬上电视。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/7876/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2022-lycoris",
@@ -2508,7 +3372,16 @@
       "why": "『帅气+可爱』的平衡与眼神设计，成为SNS时代角色营销的模板：一眼就能被截图传播。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/7786/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2022-gwitch",
@@ -2568,7 +3441,16 @@
       "status": "core",
       "confidence": "medium",
       "yearNote": "连载始于2021年，2022年起成为话题",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://aonohako-anime.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2023-frieren",
@@ -2626,7 +3508,16 @@
       "why": "平山宽菜的『星瞳』把偶像的眼睛做成符号：瞳孔里可以放星星，眼睛成为品牌LOGO。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/8081/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2023-kusuriya",
@@ -2648,7 +3539,16 @@
       "why": "猫猫的眼睑、眉形及夸张表情与服饰轮廓形成辨识度，可与同年其他作品比较五官记号和人物姿态。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/8295/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2023-ff16",
@@ -2670,7 +3570,16 @@
       "why": "写实系3D与英式奇幻的融合：日本游戏人物设计出现明确的『去动画化』分支。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://na.finalfantasyxvi.com/characters",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2024-dandadan",
@@ -2728,7 +3637,16 @@
       "why": "西谷泰史的轻快线条+和风纹样：历史题材被画成现代脸，发饰与衣纹承担了时代感。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/8663/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2024-gbc",
@@ -2750,7 +3668,16 @@
       "why": "角色的眼型、嘴形与大幅身体姿态形成鲜明表演感；可比较稳定造形和情绪夸张时的变形。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.b-ch.com/titles/8515/",
+          "accessedAt": "2026-11-04",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2024-metaphor",
@@ -2772,7 +3699,16 @@
       "why": "副岛成记把『时尚』推到极致：宽肩、尖下巴、留白的眼睛——游戏人物看起来像时装大片。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://metaphor.atlus.com/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2025-gqux",
@@ -2830,7 +3766,16 @@
       "why": "以人物的五官轮廓、身体姿态和表情变化为观察入口；与TV版比较时须先核对对应版本的设计署名。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://chainsawman.dog/movie_reze/",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     },
     {
       "id": "2025-lazarus",
@@ -2888,7 +3833,16 @@
       "why": "以新川洋司参与的人物设计为入口，比较写实面部、服装轮廓与角色姿态；具体设计分工仍需作品级来源。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified"
+      "verification": "unverified",
+      "sources": [
+        {
+          "label": "官方图像出处",
+          "url": "https://www.kojimaproductions.jp/en/death-stranding-2",
+          "accessedAt": "2026-11-07",
+          "fields": [],
+          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+        }
+      ]
     }
   ]
 }

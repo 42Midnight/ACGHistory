@@ -592,5 +592,491 @@
     "alt": "未闻花名授权发行宣传图",
     "note": "对应版本的授权发行平台宣传图；非原始设定证据",
     "accessedAt": "2026-11-04"
+  },
+  "1997-mononoke": {
+    "src": "/images/1997-mononoke.webp",
+    "source": "https://www.ghibli.jp/works/mononoke/",
+    "originalUrl": "https://www.ghibli.jp/images/mononoke.jpg",
+    "credit": "© 1997 Hayao Miyazaki/Studio Ghibli, ND",
+    "alt": "幽灵公主官方主视觉",
+    "note": "1997年剧场版官网主视觉；完整画面，非角色设定图",
+    "accessedAt": "2026-11-07"
+  },
+  "2001-spirited": {
+    "src": "/images/2001-spirited.webp",
+    "source": "https://www.ghibli.jp/works/chihiro/",
+    "originalUrl": "https://www.ghibli.jp/images/chihiro.jpg",
+    "credit": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM",
+    "alt": "千与千寻官方主视觉",
+    "note": "2001年剧场版官网主视觉；完整画面，非角色设定图",
+    "accessedAt": "2026-11-07"
+  },
+  "2018-violet": {
+    "src": "/images/2018-violet.webp",
+    "source": "https://violet-evergarden.jp/",
+    "originalUrl": "https://violet-evergarden.jp/img/social_mv.jpg",
+    "credit": "©暁佳奈・京都アニメーション／ヴァイオレット・エヴァーガーデン製作委員会",
+    "alt": "紫罗兰永恒花园官方宣传图",
+    "note": "剧场版官网宣传图；非TV版首发设定，比较前须核对版本",
+    "accessedAt": "2026-11-07"
+  },
+  "2014-rakuten": {
+    "src": "/images/2014-rakuten.webp",
+    "source": "https://rakuen-tsuiho.com/",
+    "originalUrl": "https://rakuen-tsuiho.com/share/images/og.jpg",
+    "credit": "©東映アニメーション・ニトロプラス/楽園追放ソサイエティ",
+    "alt": "乐园追放官方主视觉",
+    "note": "2014年剧场版官网主视觉；完整画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2025-chainsawmovie": {
+    "src": "/images/2025-chainsawmovie.webp",
+    "source": "https://chainsawman.dog/movie_reze/",
+    "originalUrl": "https://chainsawman.dog/movie_reze/assets/og/ogp.jpg",
+    "credit": "©藤本タツキ／集英社・「チェンソーマン」製作委員会",
+    "alt": "链锯人 蕾塞篇官方宣传图",
+    "note": "2025年剧场版官网主视觉；非TV版设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2011-kimiuso": {
+    "src": "/images/2011-kimiuso.webp",
+    "source": "https://www.kimiuso.jp/character/",
+    "originalUrl": "https://www.kimiuso.jp/assets/img/chara/chara2_1.png",
+    "credit": "© 新川直司・講談社／「四月は君の嘘」製作委員会",
+    "alt": "《四月是你的谎言》官方角色图：宫园薰的笑容特写、校服全身像与小提琴演奏姿态",
+    "note": "2014年TV动画《四月は君の嘘》官网角色页宫园薰介绍图（778×655，PNG）：表情特写、制服全身与演奏姿态拼贴，空白处为透明区域；动画版设定，非新川直司漫画封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "2013-koenokatachi": {
+    "src": "/images/2013-koenokatachi.webp",
+    "source": "https://koenokatachi-movie.com/",
+    "originalUrl": "https://koenokatachi-movie.com/img/social.jpg",
+    "credit": "©大今良時・講談社／映画聲の形製作委員会",
+    "alt": "声之形官方主视觉",
+    "note": "2016年剧场版官网主视觉；非2013年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2017-blueperiod": {
+    "src": "/images/2017-blueperiod.webp",
+    "source": "https://blue-period.jp/",
+    "originalUrl": "https://blue-period.jp/wp/wp-content/themes/blueperiod_honban_theme/assets/img/ogp.jpg",
+    "credit": "©︎山口つばさ・講談社／ブルーピリオド製作委員会",
+    "alt": "蓝色时期官方宣传图",
+    "note": "2021年动画版官网主视觉；非2017年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2018-chainsaw": {
+    "src": "/images/2018-chainsaw.webp",
+    "source": "https://chainsawman.dog/",
+    "originalUrl": "https://chainsawman.dog/assets/portal/og/ogp.jpg?251221",
+    "credit": "©藤本タツキ／ミックスグリーン・MAPPA",
+    "alt": "电锯人官方门户宣传图",
+    "note": "动画版门户宣传图；非2018年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2021-lookback": {
+    "src": "/images/2021-lookback.webp",
+    "source": "https://lookback-anime.com/",
+    "originalUrl": "https://lookback-anime.com/ogp02.jpg",
+    "credit": "© 藤本タツキ／集英社 © 2024「ルックバック」製作委員会",
+    "alt": "蓦然回首官方主视觉",
+    "note": "2024年剧场版官网主视觉；非2021年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2022-aohako": {
+    "src": "/images/2022-aohako.webp",
+    "source": "https://aonohako-anime.com/",
+    "originalUrl": "https://aonohako-anime.com/assets/og/ogp6.jpg",
+    "credit": "©三浦糀／集英社・「アオのハコ」製作委員会",
+    "alt": "青之箱官方宣传图",
+    "note": "2024年动画版官网主视觉；非2022年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2006-ff12": {
+    "src": "/images/2006-ff12.webp",
+    "source": "https://www.jp.square-enix.com/ff12_tza/character/",
+    "originalUrl": "https://www.jp.square-enix.com/ff12_tza/img/ogp_ff12tza.png",
+    "credit": "©2006,2017 SQUARE ENIX CO., LTD. All Rights Reserved.",
+    "alt": "最终幻想XII 黄道年代官方主视觉",
+    "note": "2017年《黄道年代》官网主视觉；非2006年原版首发设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2010-nier": {
+    "src": "/images/2010-nier.webp",
+    "source": "https://www.jp.square-enix.com/nierarchive/",
+    "originalUrl": "https://www.jp.square-enix.com/nierarchive/asset/img/top/char_r.png",
+    "credit": "©2010 SQUARE ENIX CO., LTD. All Rights Reserved.",
+    "alt": "尼尔 复制体官方角色图",
+    "note": "2010年《尼尔 复制体》官网角色图；非游戏内实时画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2013-ff14": {
+    "src": "/images/2013-ff14.webp",
+    "source": "https://jp.finalfantasyxiv.com/",
+    "originalUrl": "https://lds-img.finalfantasyxiv.com/promo/h/N/JiNzz_kczK6vAoPKToQYklLOWw.jpg",
+    "credit": "© SQUARE ENIX",
+    "alt": "最终幻想XIV官方宣传图",
+    "note": "官方促销站主视觉；对应《新生艾奥杰亚》之后的版本，比较前须核对资料片",
+    "accessedAt": "2026-11-07"
+  },
+  "2017-nierautomata": {
+    "src": "/images/2017-nierautomata.webp",
+    "source": "https://www.jp.square-enix.com/nierautomata/",
+    "originalUrl": "https://www.jp.square-enix.com/nierautomata/assets/img/home/character_image01.png",
+    "credit": "© SQUARE ENIX CO., LTD. All Rights Reserved.",
+    "alt": "《尼尔 自动人形》官方角色立绘：白发遮眼的2B身着黑色战斗服半身像",
+    "note": "《NieR:Automata》Square Enix日本官网首页角色区第1位角色立绘（2B，532×460，透明PNG）；2017年游戏官方角色图，非动画版《NieR:Automata Ver1.1a》用图。",
+    "accessedAt": "2026-11-07"
+  },
+  "2019-fe3h": {
+    "src": "/images/2019-fe3h.webp",
+    "source": "https://www.nintendo.com/jp/switch/anvya/",
+    "originalUrl": "https://www.nintendo.com/jp/switch/anvya/sns.png",
+    "credit": "© 2019 Nintendo / INTELLIGENT SYSTEMS",
+    "alt": "火焰纹章 风花雪月官方主视觉",
+    "note": "2019年Switch版官网主视觉；非游戏内实时画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2020-genshin": {
+    "src": "/images/2020-genshin.webp",
+    "source": "https://genshin.hoyoverse.com/",
+    "originalUrl": "https://upload-static.hoyoverse.com/hk4e/upload/fb/common.jpg",
+    "credit": "© HoYoverse",
+    "alt": "原神官方宣传图",
+    "note": "官方国际站宣传图；中国miHoYo/HoYoverse制作，非日本IP",
+    "accessedAt": "2026-11-07"
+  },
+  "2024-metaphor": {
+    "src": "/images/2024-metaphor.webp",
+    "source": "https://metaphor.atlus.com/",
+    "originalUrl": "https://metaphor.atlus.com/media/img/hero/hero-art.jpg",
+    "credit": "© ATLUS. © SEGA.",
+    "alt": "暗喻幻想官方主视觉",
+    "note": "2024年游戏官网主视觉；非游戏内实时画面",
+    "accessedAt": "2026-11-07"
+  },
+  "1997-onepiece": {
+    "src": "/images/1997-onepiece.webp",
+    "source": "https://www.shonenjump.com/j/rensai/onepiece.html",
+    "originalUrl": "https://www.shonenjump.com/j/assets/images/rensai/main_onepiece.jpg",
+    "credit": "©尾田栄一郎／集英社",
+    "alt": "海贼王官方宣传图",
+    "note": "少年Jump官网《ONE PIECE》主视觉；漫画版，非动画截图",
+    "accessedAt": "2026-11-07"
+  },
+  "1998-hxh": {
+    "src": "/images/1998-hxh.webp",
+    "source": "https://www.shonenjump.com/j/rensai/hunter.html",
+    "originalUrl": "https://www.shonenjump.com/j/assets/images/rensai/main_hunter.jpg",
+    "credit": "©冨樫義博／集英社",
+    "alt": "《全职猎人》官方主视觉：小杰与奇犽并肩跃起的彩色人物插图",
+    "note": "少年Jump官网《HUNTER×HUNTER》连载页主视觉（1000×1000，JPEG），小杰与奇犽的原作彩稿风格插图，带作品标题字；属官网系列页头图，不是单行本封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "2001-bleach": {
+    "src": "/images/2001-bleach.webp",
+    "source": "https://promo.shonenjump.com/bleach/artselection/",
+    "originalUrl": "https://promo.shonenjump.com/bleach/artselection/img/hero/BAS-KV-01.jpg",
+    "credit": "©久保帯人/集英社",
+    "alt": "《死神》官方主视觉：紫色与黑色块面中的黑崎一护坐姿插图",
+    "note": "集英社官方企划站「BLEACH ART SELECTION」主视觉 KV-01（2005×2005，JPEG）：黑紫大面积色块中的黑崎一护，正对应久保带人的设计感与留白；为官网宣传主视觉，非单行本第1卷封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "2012-haikyuu": {
+    "src": "/images/2012-haikyuu.webp",
+    "source": "https://www.shonenjump.com/j/rensai/haikyu.html",
+    "originalUrl": "https://www.shonenjump.com/j/rensai/img/main_haikyu.jpg",
+    "credit": "©古舘春一／集英社",
+    "alt": "排球少年官方宣传图",
+    "note": "少年Jump官网《ハイキュー!!》主视觉；漫画版，非动画截图",
+    "accessedAt": "2026-11-07"
+  },
+  "1997-ff7": {
+    "src": "/images/1997-ff7.webp",
+    "source": "https://www.jp.square-enix.com/ffvii_remake/character/",
+    "originalUrl": "https://www.jp.square-enix.com/ffvii_remake/character/_img/cloud/full.png?190930",
+    "credit": "© 1997, 2020 SQUARE ENIX CO., LTD. All Rights Reserved.",
+    "alt": "最终幻想VII 重制版角色图：克劳德",
+    "note": "FF7重制版官网角色图；非1997年原版多边形模型",
+    "accessedAt": "2026-11-07"
+  },
+  "2008-p4": {
+    "src": "/images/2008-p4.webp",
+    "source": "https://www.atlus.co.jp/title-archive/p4/",
+    "originalUrl": "https://www.atlus.co.jp/wp-content/uploads/2017/04/p4_p06.jpg",
+    "credit": "© ATLUS",
+    "alt": "女神异闻录4官方角色图",
+    "note": "官方角色介绍图；游戏内界面/立绘版本，非动画版设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2016-p5": {
+    "src": "/images/2016-p5.webp",
+    "source": "https://persona5.jp/",
+    "originalUrl": "https://persona5.jp/resources/img/top/key_visual.png?v=1754974743705",
+    "credit": "© ATLUS. © SEGA.",
+    "alt": "女神异闻录5官方主视觉",
+    "note": "2016年游戏官网主视觉；非动画版设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2021-arise": {
+    "src": "/images/2021-arise.webp",
+    "source": "https://www.bandainamcoent.com/games/tales-of-arise",
+    "originalUrl": "https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/cml1obfbv737g07jye2d2vmb0",
+    "credit": "© Bandai Namco Entertainment Inc.",
+    "alt": "破晓传说官方主视觉",
+    "note": "2021年游戏官网主视觉；非游戏内实时画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2023-ff16": {
+    "src": "/images/2023-ff16.webp",
+    "source": "https://na.finalfantasyxvi.com/characters",
+    "originalUrl": "https://fyre.cdn.sewest.net/ff-xvi/6389f98d0b9c7607e75aff55/clive-present-fnp192YFFf.png",
+    "credit": "© SQUARE ENIX",
+    "alt": "《最终幻想XVI》官方角色立绘：克莱夫·罗兹菲尔德侧身背剑的写实全身像",
+    "note": "《FINAL FANTASY XVI》Square Enix北美官网角色页克莱夫·罗兹菲尔德立绘（964×1800，透明PNG，由官网图库 CDN fyre.cdn.sewest.net 承载）；2023年游戏官方写实3D角色渲染图，非天野喜孝插画。",
+    "accessedAt": "2026-11-07"
+  },
+  "2025-deathstranding2": {
+    "src": "/images/2025-deathstranding2.webp",
+    "source": "https://www.kojimaproductions.jp/en/death-stranding-2",
+    "originalUrl": "https://www.kojimaproductions.jp/sites/default/files/2024-02/ds2_tga2023_thumbnail_portrait.jpg",
+    "credit": "© KOJIMA PRODUCTIONS",
+    "alt": "死亡搁浅2：冥滩之上官方宣传图",
+    "note": "2023年TGA公布用官方宣传图；非2025年发售版全部画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2003-deathnote": {
+    "src": "/images/2003-deathnote.webp",
+    "source": "https://www.ntv.co.jp/deathnote/",
+    "originalUrl": "https://www.ntv.co.jp/deathnote/images/og_image.jpg",
+    "credit": "©大場つぐみ・小畑健／集英社・「DEATH NOTE」製作委員会",
+    "alt": "死亡笔记官方宣传图",
+    "note": "日本电视台动画官网主视觉；非2003年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2005-kimini": {
+    "src": "/images/2005-kimini.webp",
+    "source": "https://www.ntv.co.jp/kiminitodoke/",
+    "originalUrl": "https://www.ntv.co.jp/kiminitodoke/images/og_image.jpg",
+    "credit": "©椎名軽穂／集英社・「君に届け」製作委員会",
+    "alt": "好想告诉你官方宣传图",
+    "note": "日本电视台动画官网主视觉；第二季版本，非2005年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2014-dungeon": {
+    "src": "/images/2014-dungeon.webp",
+    "source": "https://www.kadokawa.co.jp/product/301411000826/",
+    "originalUrl": "https://cdn.kdkw.jp/cover_1000/301411/301411000826.webp",
+    "credit": "©九井諒子／KADOKAWA",
+    "alt": "《迷宫饭》日文版第1卷官方封面：莱欧斯持锅与铁锅立于迷宫石廊，队友在后方生火做饭",
+    "note": "KADOKAWA官网《ダンジョン飯》第1卷商品页封面图（703×1000，webp）；2014年HARTA COMICS单行本初版封面，莱欧斯与队伍在迷宫中的彩色原画，适合作九井谅子造形与配色的样本。",
+    "accessedAt": "2026-11-07"
+  },
+  "1999-toheart": {
+    "src": "/images/1999-toheart.webp",
+    "source": "https://www.b-ch.com/titles/521/",
+    "originalUrl": "https://image2.b-ch.com/fix/521h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2004 AQUAPLUS/THR Works",
+    "alt": "To Heart 授权发行宣传图",
+    "note": "2004年《Remember my memories》授权发行主视觉；非1999年TV版首发设定",
+    "accessedAt": "2026-11-07"
+  },
+  "1999-hikaru": {
+    "src": "/images/1999-hikaru.webp",
+    "source": "https://www.b-ch.com/titles/2188/",
+    "originalUrl": "https://image2.b-ch.com/fix/2188h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)ほったゆみ・HMC・小畑健・ノエル／集英社・テレビ東京・電通・ぴえろ",
+    "alt": "棋魂授权发行宣传图",
+    "note": "授权发行平台动画主视觉；动画版，非1999年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2000-hachikuro": {
+    "src": "/images/2000-hachikuro.webp",
+    "source": "https://www.b-ch.com/titles/4120/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/4120/4120001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)羽海野チカ／集英社・ハチクロ製作委員会",
+    "alt": "蜂蜜与四叶草授权发行宣传图",
+    "note": "授权发行平台动画主视觉；动画版，非2000年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2002-airgear": {
+    "src": "/images/2002-airgear.webp",
+    "source": "https://www.b-ch.com/titles/2238/",
+    "originalUrl": "https://image2.b-ch.com/fix/2238h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)大暮維人・講談社／マーベラス・エイベックス・エンタテインメント・東映アニメーション",
+    "alt": "飞轮少年授权发行宣传图",
+    "note": "授权发行平台动画主视觉；动画版，非2002年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2004-moyashimon": {
+    "src": "/images/2004-moyashimon.webp",
+    "source": "https://www.b-ch.com/titles/4122/",
+    "originalUrl": "https://image2.b-ch.com/ttl2/4122/4122001a.jpg?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)石川雅之・講談社／もやしもん製作委員会",
+    "alt": "萌菌物语授权发行宣传图",
+    "note": "授权发行平台动画主视觉；动画版，非2004年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2006-haruhi": {
+    "src": "/images/2006-haruhi.webp",
+    "source": "https://www.b-ch.com/titles/6566/",
+    "originalUrl": "https://image2.b-ch.com/fix/6566h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)2006 谷川 流・いとうのいぢ／SOS団",
+    "alt": "凉宫春日的忧郁授权发行宣传图",
+    "note": "2009年放送版授权发行主视觉；非2006年首发设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2006-kuroshitsuji": {
+    "src": "/images/2006-kuroshitsuji.webp",
+    "source": "https://www.b-ch.com/titles/1646/",
+    "originalUrl": "https://image2.b-ch.com/fix/1646h.png?impolicy=fitin&ww=960&hh=540",
+    "credit": "(C)枢やな/スクウェアエニックス・女王の番犬・ＭＢＳ",
+    "alt": "黑执事授权发行宣传图",
+    "note": "第一季授权发行主视觉；非2006年漫画原画",
+    "accessedAt": "2026-11-07"
+  },
+  "2007-chihaya": {
+    "src": "/images/2007-chihaya.webp",
+    "source": "https://www.ntv.co.jp/chihayafuru2/character/",
+    "originalUrl": "https://www.ntv.co.jp/chihayafuru2/character/images/detail/chihaya.jpg",
+    "credit": "©末次由紀／講談社・VAP・NTV",
+    "alt": "《花牌情缘》官方角色介绍图：绫濑千早的校服立绘、表情特写与和服跪坐姿态",
+    "note": "日本テレビ《ちはやふる2》官网角色介绍图（绫濑千早，650×435，JPEG，含日文人物说明与和服比赛姿态）；动画版设定，非末次由纪漫画原稿或单行本封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "2009-aku": {
+    "src": "/images/2009-aku.webp",
+    "source": "https://www.kodansha.co.jp/titles/1000004978",
+    "originalUrl": "https://dvs-cover.kodansha.co.jp/0000017065/8PvpzjBHuL4Zje4dsOwsjplCigGHBBbzE1k57Rb1.jpg",
+    "credit": "©押見修造／講談社",
+    "alt": "《恶之华》官方分册版封面：短发少女的漫画线稿特写，配粉色书名与对白气泡",
+    "note": "讲谈社官网《惡の華》作品页所载分册版第1卷封面（640×957，JPEG）：短发少女角色特写与漫画对白，押见修造本人线稿；属电子分册版封面，非纸本单行本第1卷封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "1998-mgs": {
+    "src": "/images/1998-mgs.webp",
+    "source": "https://store.steampowered.com/app/2131630/",
+    "originalUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2131630/header.jpg?t=1782165092",
+    "credit": "© Konami Digital Entertainment",
+    "alt": "合金装备 索利德官方发行图",
+    "note": "Master Collection版官方发行图；非1998年PS1原版画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2000-flcl": {
+    "src": "/images/2000-flcl.webp",
+    "source": "https://www.adultswim.com/videos/flcl",
+    "originalUrl": "https://media.cdn.adultswim.com/uploads/20230927/23927131887-flcl-season5-metaThumb_420x236.png",
+    "credit": "© Production I.G / Adult Swim",
+    "alt": "特别的她官方发行图",
+    "note": "Adult Swim官方发行缩略图；对应后续系列，非2000年OVA首发设定",
+    "accessedAt": "2026-11-07"
+  },
+  "2001-ff10": {
+    "src": "/images/2001-ff10.webp",
+    "source": "https://store.steampowered.com/app/359870/",
+    "originalUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/capsule_616x353.jpg?t=1777343443",
+    "credit": "© SQUARE ENIX",
+    "alt": "最终幻想X/X-2 HD重制版官方发行图",
+    "note": "HD Remaster官方发行图；非2001年PS2原版画面",
+    "accessedAt": "2026-11-07"
+  },
+  "2003-smt3": {
+    "src": "/images/2003-smt3.webp",
+    "source": "https://shin-megamitensei.jp/3hd/story_character/",
+    "originalUrl": "https://shin-megamitensei.jp/3hd/resources/img/story_character/chara1_after_033d80525829e71840ba6b1ddd8c8ec1.png",
+    "credit": "©ATLUS ©SEGA All rights reserved.",
+    "alt": "《真·女神转生III》官方角色立绘：人修罗发光纹身与恶魔化身躯的全身像",
+    "note": "ATLUS《真・女神転生III NOCTURNE HD REMASTER》官网角色页「人修羅」形态立绘（416×777，透明PNG）；为2020年HD移植版官网图，角色原画沿用2003年PS2版金子一马设定。",
+    "accessedAt": "2026-11-07"
+  },
+  "2010-huke": {
+    "src": "/images/2010-huke.webp",
+    "source": "https://blackrockshooter.jp/",
+    "originalUrl": "https://blackrockshooter.jp/_app/wp-content/uploads/2021/12/gallery_kv3.jpg",
+    "credit": "©B★RS/ブラック★ロックシューター DAWN FALL 製作委員会",
+    "alt": "huke 黑岩射手官方主视觉",
+    "note": "《黑岩射手 DAWN FALL》官方主视觉；huke角色原案，非插画师个人画集",
+    "accessedAt": "2026-11-07"
+  },
+  "2007-kei": {
+    "src": "/images/2007-kei.webp",
+    "source": "https://piapro.net/intl/en.html",
+    "originalUrl": "https://piapro.net/intl/images/p1031_bg_chara2.png",
+    "credit": "© Crypton Future Media, Inc.",
+    "alt": "KEI 初音未来等VOCALOID角色官方图",
+    "note": "初音未来等VOCALOID角色官方图；KEI为初音未来角色设计，非个人插画集",
+    "accessedAt": "2026-11-07"
+  },
+  "1999-vp": {
+    "src": "/images/1999-vp.webp",
+    "source": "https://www.jp.square-enix.com/vp_lenneth/",
+    "originalUrl": "https://www.jp.square-enix.com/vp_lenneth/assets/img/kv-lenneth.png",
+    "credit": "© SQUARE ENIX CO., LTD. All Rights Reserved.",
+    "alt": "《女神侧身像》官方角色立绘：银发女武神蕾娜斯身着蓝金铠甲侧身而立",
+    "note": "2022年PS5/PS4《ヴァルキリープロファイル −レナス−》官网主视觉角色立绘（蕾娜斯，758×947，透明PNG）；为重制移植版宣传图，非1999年PS1初版包装/说明书用图，引用时需注明版本。",
+    "accessedAt": "2026-11-07"
+  },
+  "2005-abyss": {
+    "src": "/images/2005-abyss.webp",
+    "source": "https://www.tv-toa.jp/character/01.html",
+    "originalUrl": "https://www.tv-toa.jp/character/images/01a.jpg",
+    "credit": "©BNEI/BNP・バンダイビジュアル",
+    "alt": "《深渊传说》官方角色介绍图：红发少年路克·冯·法布雷的正面全身与表情特写",
+    "note": "2008年TV动画《テイルズ オブ ジ アビス》官网角色介绍图（路克·冯·法布雷，510×510，JPEG，含角色名与声优字样）；动画版设定图，人物原案为2005年游戏版藤岛康介，非游戏包装原画。",
+    "accessedAt": "2026-11-07"
+  },
+  "2020-lam": {
+    "src": "/images/2020-lam.webp",
+    "source": "https://lam-illust.com/",
+    "originalUrl": "https://lam-illust.com/static/img/teaser/pc-img1.jpg",
+    "credit": "© LAM",
+    "alt": "LAM官方作品展示插画：黑红配色的双角少女，红手套与红眼，坐在黑色座椅上",
+    "note": "LAM本人官方网站（lam-illust.com）首页作品展示图（3200×2400，JPEG）；黑红高对比与锐利轮廓的代表性插画。站点未标注作品名与发表年，本条目仍需人工补充代表作信息（如画集/商业委托年份）。",
+    "accessedAt": "2026-11-07"
+  },
+  "2000-murata": {
+    "src": "/images/2000-murata.webp",
+    "source": "https://www.pseweb.com/page/gallery_i018.html",
+    "originalUrl": "https://www.pseweb.com/image/gallery_i018.jpg",
+    "credit": "© RANGE MURATA",
+    "alt": "村田蓮爾官方画廊人物插画：棕发少女回望镜头，深色比基尼与紫色充气泳圈，背景为虚化的绿色树荫",
+    "note": "村田蓮爾本人官方站 PSEWEB「GALLERY」的 Illustration 018（570×769 JPEG 为站内全尺寸图）。站点自标出处：『快楽天』（04年/8月号）【ワニマガジン社】连载『futuregraph #15』（2004）。注意年份：本站席位写作2000，该图实为2004年作；官网 Books 页确有一件2000年物『LIKE A BALANCE LIFE 0.5』（2000年6月／ワニマガジン社），但只配了142×199缩略图，不足以做研究用图，故取同系列人物插画并保留真实年份，待校准归年。",
+    "accessedAt": "2026-11-07"
+  },
+  "2004-itoi": {
+    "src": "/images/2004-itoi.webp",
+    "source": "https://www.kadokawa.co.jp/product/200403000353/",
+    "originalUrl": "https://cdn.kdkw.jp/cover_1000/200403/200403000353.webp",
+    "credit": "©谷川流／KADOKAWA（イラスト：いとうのいぢ）",
+    "alt": "《凉宫春日的消失》官方封面：长发少女凉宫春日系红领带、穿水手服上衣与百褶裙，侧身抬手，右侧竖排绿色标题「涼宮ハルヒの消失」",
+    "note": "KADOKAWA 官方商品页《涼宮ハルヒの消失》（角川スニーカー文庫、2004年7月31日、ISBN 9784044292041）的封面图（718×1000 webp），商品页明确标注「イラスト いとう のいぢ」。2004年7月刊，与本站席位年份一致；本卷为系列第4卷，若需以系列首卷为锚点则应改引2003年《憂鬱》封面。",
+    "accessedAt": "2026-11-07"
+  },
+  "2008-kanzaki": {
+    "src": "/images/2008-kanzaki.webp",
+    "source": "https://www.kadokawa.co.jp/product/200807000254/",
+    "originalUrl": "https://cdn.kdkw.jp/cover_1000/200807/200807000254.webp",
+    "credit": "©伏見つかさ／KADOKAWA（イラスト：かんざきひろ）",
+    "alt": "《我的妹妹哪有这么可爱！》第1卷官方封面：金发少女高坂桐乃抱臂立于前景，兄长高坂京介在其身后侧目，绿色手写体书名满布背景",
+    "note": "KADOKAWA 官方商品页《俺の妹がこんなに可愛いわけがない》第1卷（電撃文庫、2008年8月10日、ISBN 9784048671804）的封面图（705×1000 webp），页面明确标注「イラスト かんざき ひろ」。2008年8月刊，与本站席位年份一致，且正是系列首卷。",
+    "accessedAt": "2026-11-07"
+  },
+  "2009-vofan": {
+    "src": "/images/2009-vofan.webp",
+    "source": "https://www.kodansha.co.jp/book/products/0000208722",
+    "originalUrl": "https://dvs-cover.kodansha.co.jp/0000208722/WEfCDwfu74igMmAozIQA2Cc0vfhOu8cuNNmclXIN.jpg",
+    "credit": "©西尾維新／講談社（イラスト：VOFAN）",
+    "alt": "《化物语（上）》讲谈社官方商品图：斜放的讲谈社BOX书盒，封套上长发少女穿粉色开衫水手服、深色短裙与过膝袜，背景为蓝色窗格与白花，右下角印「illustration / VOFAN」",
+    "note": "講談社官方商品页《化物語（上）》（講談社BOX、2006年11月2日、ISBN 9784062836029）所载商品图（480×679 JPEG，书盒斜角实拍，封套右下印有「illustration / VOFAN」）。这是 VOFAN 亲绘的轻小说封面原画，并非动画版设定图；本书2006年出版，本站2009年席位对应其后的TV动画化（2009年），引用时须注明版本与年份差异。講談社该系列页只提供480px宽封面，未能取得更大尺寸。",
+    "accessedAt": "2026-11-07"
+  },
+  "2015-yoneyama": {
+    "src": "/images/2015-yoneyama.webp",
+    "source": "https://yoneyamai.com/category-all/page5/",
+    "originalUrl": "https://cdn.sanity.io/images/zoin1sjp/production/c13e707f6a4659abf71540b36950f26647d2f938-4978x3733.jpg?q=90&fm=jpg&w=1400",
+    "credit": "© 米山舞 / Mai Yoneyama（站点页脚仅标「© 2026」，未署名）",
+    "alt": "米山舞作品《ぽろぽろ》官方图：仰头含泪微笑的少女侧脸，眼角泪光与黄色星形光点飘散在淡蓝天空前",
+    "note": "米山舞本人作品集站 yoneyamai.com 归档页（category-all/page5）中的作品「ぽろぽろ」，站点作品列表标注为 2018 / Illustration；Sanity CDN 原图 4978×3733，此 URL 为站点图的1400px JPEG 规格（1400×1050）。更正一处判断：og:image 确实只是纯文字 logo（1200×630 png），但站点以作品列表叠字形式标注了作品名与年份，并非无题；该站归档范围仅2010–2025，没有2015年作品（最近的是2010《longing》与2018《ぽろぽろ》《ANIMATION》《20180413》《DARLING in the FRANXX》），故本站2015席位仍缺同年锚点。备选（同站，若需更“当代”样本）：2024《EXPERIENCE》、2024《METAMORPHOSIS 01》。",
+    "accessedAt": "2026-11-07"
   }
 }
