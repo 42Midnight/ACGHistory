@@ -120,7 +120,7 @@
 
   <!-- 底部导航 -->
   <line x1="0" y1="1440" x2="1440" y2="1440" stroke="#D9D2C5"/>
-  <text x="32" y="1474" font-size="13" fill="#1A1A1A">← 上一件：我的英雄学院 2016</text>
+  <text x="32" y="1474" font-size="13" fill="#1A1A1A">← 上一件：JOJO的奇妙冒险 不灭钻石 2016</text>
   <text x="620" y="1474" font-size="13" fill="#1A1A1A">回到时间轴 · 2012</text>
   <text x="1376" y="1474" font-size="13" fill="#1A1A1A" text-anchor="end">下一件：进击的巨人 2013 →</text>
 

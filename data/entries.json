@@ -2,7 +2,7 @@
   "meta": {
     "project": "日式ACG人物画风演变 1996–2025",
     "version": "0.2.0",
-    "updated": "2026-11-04",
+    "updated": "2026-11-07",
     "total": 120,
     "core": 120,
     "provisional": 0,
@@ -2602,33 +2602,49 @@
       ]
     },
     {
-      "id": "2016-heroaca",
+      "id": "2016-jojo4",
       "year": 2016,
       "period": "P5",
       "kind": "anime",
-      "zh": "我的英雄学院",
-      "ja": "僕のヒーローアカデミア",
-      "en": "My Hero Academia",
-      "creator": "長崎健司（監督）",
-      "designer": "馬越嘉彦",
-      "org": "ボンズ",
+      "zh": "JOJO的奇妙冒险 不灭钻石",
+      "ja": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+      "en": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+      "creator": "津田尚克（ディレクター）／加藤敏幸（シリーズディレクター）",
+      "designer": "西位輝実",
+      "org": "david production",
       "facet": "line",
       "tags": [
         "太线",
-        "弹性变形",
-        "美漫影响"
+        "剧画",
+        "高对比"
       ],
-      "why": "马越嘉彦的太线+弹性变形，把美式漫画的力量感接进日式人物：线条粗、动作大、表情狠。",
+      "why": "荒木飛呂彦的人物经动画化仍保留厚实的轮廓与浓烈的配色：五官比例被刻意夸张，阴影靠排线而不是渐变，造型感压过写实。",
       "status": "core",
       "confidence": "medium",
-      "verification": "unverified",
+      "verification": "partial",
+      "verifiedFields": [
+        "creator",
+        "designer",
+        "org"
+      ],
       "sources": [
         {
           "label": "官方图像出处",
-          "url": "https://www.b-ch.com/titles/5130/",
-          "accessedAt": "2026-11-04",
+          "url": "https://jojo-animation.com/du/",
+          "accessedAt": "2026-11-07",
           "fields": [],
-          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+          "note": "第4部官网主视觉承载页；图像版本与用途见图注。"
+        },
+        {
+          "label": "官方 STAFF/CAST",
+          "url": "https://jojo-animation.com/du/staffcast/",
+          "accessedAt": "2026-11-07",
+          "fields": [
+            "creator",
+            "designer",
+            "org"
+          ],
+          "note": "ディレクター 津田尚克、シリーズディレクター 加藤敏幸、キャラクターデザイン 西位輝実、アニメーション制作 david production。"
         }
       ]
     },
@@ -3129,34 +3145,40 @@
       ]
     },
     {
-      "id": "2020-genshin",
+      "id": "2020-pjsekai",
       "year": 2020,
       "period": "P6",
       "kind": "game",
-      "zh": "原神",
-      "ja": "原神",
-      "en": "Genshin Impact",
-      "creator": "miHoYo",
+      "zh": "世界计划 缤纷舞台！feat. 初音未来",
+      "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+      "en": "Project SEKAI COLORFUL STAGE! feat. Hatsune Miku",
+      "creator": "セガ／Colorful Palette",
       "designer": null,
-      "org": "miHoYo",
+      "org": "セガ",
       "facet": "color",
       "tags": [
         "赛璐璐3D",
-        "全球",
-        "二次元"
+        "虚拟歌手",
+        "配信"
       ],
-      "why": "中国miHoYo制作的跨国案例：以日式五官、角色剪影和装饰性服装表现立体人物，需要与日本本土作品分开标注。",
+      "why": "把日式动画的五官语法装进 3D：硬边阴影、块状高光与分明的发束色块，让同一张脸在转动、换装和联动中保持插画式的轮廓。",
       "status": "core",
       "confidence": "medium",
-      "regionNote": "中国 · miHoYo；作为日式人物视觉传统的跨国案例纳入，非日本IP。",
-      "verification": "unverified",
+      "verification": "partial",
+      "verifiedFields": [
+        "creator",
+        "org"
+      ],
       "sources": [
         {
           "label": "官方图像出处",
-          "url": "https://genshin.hoyoverse.com/",
+          "url": "https://pjsekai.sega.jp/",
           "accessedAt": "2026-11-07",
-          "fields": [],
-          "note": "条目图像的官方承载页；图像版本与用途见图注。"
+          "fields": [
+            "creator",
+            "org"
+          ],
+          "note": "官网主视觉承载页，页面署名为セガ与Colorful Palette；图像版本与用途见图注。"
         }
       ]
     },

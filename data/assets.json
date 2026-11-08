@@ -377,14 +377,14 @@
     "note": "对应版本的授权发行平台宣传图；非原始设定证据",
     "accessedAt": "2026-11-04"
   },
-  "2016-heroaca": {
-    "src": "/images/2016-heroaca.webp",
-    "source": "https://www.b-ch.com/titles/5130/",
-    "originalUrl": "https://image2.b-ch.com/ttl2/5130/5130001a.jpg?impolicy=fitin&ww=960&hh=540",
-    "credit": "（C）堀越耕平／集英社・僕のヒーローアカデミア製作委員会",
-    "alt": "我的英雄学院授权发行宣传图",
-    "note": "对应版本的授权发行平台宣传图；非原始设定证据",
-    "accessedAt": "2026-11-04"
+  "2016-jojo4": {
+    "src": "/images/2016-jojo4.webp",
+    "source": "https://jojo-animation.com/du/",
+    "originalUrl": "https://jojo-animation.com/du/core_sys/images/main/top/t_main_img4.jpg",
+    "credit": "©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険DU製作委員会",
+    "alt": "JOJO的奇妙冒险 不灭钻石官方主视觉",
+    "note": "第4部官网主视觉；完整画面，未裁切",
+    "accessedAt": "2026-11-07"
   },
   "2016-konosuba": {
     "src": "/images/2016-konosuba.webp",
@@ -737,13 +737,13 @@
     "note": "2019年Switch版官网主视觉；非游戏内实时画面",
     "accessedAt": "2026-11-07"
   },
-  "2020-genshin": {
-    "src": "/images/2020-genshin.webp",
-    "source": "https://genshin.hoyoverse.com/",
-    "originalUrl": "https://upload-static.hoyoverse.com/hk4e/upload/fb/common.jpg",
-    "credit": "© HoYoverse",
-    "alt": "原神官方宣传图",
-    "note": "官方国际站宣传图；中国miHoYo/HoYoverse制作，非日本IP",
+  "2020-pjsekai": {
+    "src": "/images/2020-pjsekai.webp",
+    "source": "https://pjsekai.sega.jp/",
+    "originalUrl": "https://pjsekai.sega.jp/assets/img/ogp.png",
+    "credit": "©SEGA / ©Colorful Palette Inc. / ©Crypton Future Media, INC.",
+    "alt": "世界计划 缤纷舞台！官方主视觉",
+    "note": "官网OGP主视觉（2026年取得）；完整画面，非2020年首发设定证据",
     "accessedAt": "2026-11-07"
   },
   "2024-metaphor": {

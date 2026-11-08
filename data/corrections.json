@@ -112,6 +112,22 @@
       "value": "羽山賢二／山田正樹",
       "url": "https://www.b-ch.com/titles/2963/",
       "note": "桂正和为角色原案与英雄设计，动画角色设计分列。"
+    },
+    {
+      "id": "2016-jojo4",
+      "field": "designer",
+      "old": null,
+      "value": "西位輝実",
+      "url": "https://jojo-animation.com/du/staffcast/",
+      "note": "替换样本后按官方STAFF/CAST页登记；同时确认ディレクター 津田尚克、シリーズディレクター 加藤敏幸、アニメーション制作 david production。"
+    },
+    {
+      "id": "2020-pjsekai",
+      "field": "creator",
+      "old": null,
+      "value": "セガ／Colorful Palette",
+      "url": "https://pjsekai.sega.jp/",
+      "note": "替换样本后按官网署名登记；官网未列个人署名的角色设计，designer留空待核。"
     }
   ]
 }
