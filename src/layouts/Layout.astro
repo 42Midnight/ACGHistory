@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-const {title='三十年的脸', description='1996—2025 日式 ACG 人物画风演变。以作品为索引，观察线条、五官与体态的变化。'}=Astro.props;
+const {title='三十年的人物画风', description='1996—2025 日式 ACG 人物画风演变。以作品为索引，观察线条、五官与体态的变化。'}=Astro.props;
 const current=Astro.url.pathname;
 ---
 <!doctype html>
@@ -8,9 +8,9 @@ const current=Astro.url.pathname;
 <head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><meta name="theme-color" content="#f7f4ee"/><title>{title} · ACG 人物研究档案</title><link rel="icon" href="/favicon.svg" type="image/svg+xml"/><slot name="head"/></head>
 <body>
   <a class="skip" href="#main">跳到正文</a>
-  <header class="header"><a class="brand" href="/" aria-label="三十年的脸 首页"><span class="brand-mark">人</span><span>三十年的脸<small>ACG CHARACTER ATLAS</small></span></a><nav aria-label="主导航">{[['/timeline/','时间轴'],['/periods/','六个时期']].map(([url,label])=><a href={url} aria-current={current.startsWith(url)?'page':undefined}>{label}</a>)}</nav><span class="header-date">1996 — 2025</span></header>
+  <header class="header"><a class="brand" href="/" aria-label="三十年的人物画风 首页"><span class="brand-mark">人</span><span>三十年的人物画风<small>ACG CHARACTER ATLAS</small></span></a><nav aria-label="主导航">{[['/timeline/','时间轴'],['/periods/','六个时期']].map(([url,label])=><a href={url} aria-current={current.startsWith(url)?'page':undefined}>{label}</a>)}</nav><span class="header-date">1996 — 2025</span></header>
   <main id="main"><slot/></main>
-  <footer class="footer"><div><strong>三十年的脸</strong><p>观察人物，理解画法。<br/>从 EVA 出发，止于 2025。</p></div><div class="footer-right"><p>文字与图像分开标注 · 图像版权归各权利者所有<br/>研究框架与选片包含解释性判断</p></div></footer>
+  <footer class="footer"><div><strong>三十年的人物画风</strong><p>观察人物，理解画法。<br/>从 EVA 出发，止于 2025。</p></div><div class="footer-right"><p>文字与图像分开标注 · 图像版权归各权利者所有<br/>研究框架与选片包含解释性判断</p></div></footer>
   <script>
     document.querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{img.hidden=true;img.closest('figure, .art')?.classList.add('image-failed')}));
     const observer=new IntersectionObserver(items=>items.forEach(i=>{if(i.isIntersecting){i.target.classList.add('visible');observer.unobserve(i.target)}}),{threshold:.08});

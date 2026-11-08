@@ -7,7 +7,7 @@ const featured=[['1996-eva','1996','新世纪福音战士'],['2009-kon','2009','
 <Layout>
   <section class="hero shell">
     <div class="eyebrow"><span class="status-dot"></span> 人物画风观察档案 <span>VOL. 01 / 30 YEARS</span></div>
-    <div class="hero-title"><h1>三十年，<br/>一张脸的<span class="serif-italic">变迁。</span></h1><div class="hero-aside"><span class="vertical-note">线条 · 五官 · 体态 · 表情</span><p>1996—2025<br/>日式 ACG 人物画风演变</p><p class="muted">从 EVA 的修长轮廓出发，<br/>看可爱如何被描绘，<br/>看不同的画法如何并行。</p><a class="primary-link" href="/timeline/">翻开时间轴 <span>↗</span></a></div></div>
+    <div class="hero-title"><h1>三十年，<br/>人物画风的<span class="serif-italic">变迁。</span></h1><div class="hero-aside"><span class="vertical-note">线条 · 五官 · 体态 · 表情</span><p>1996—2025<br/>日式 ACG 人物画风演变</p><p class="muted">从 EVA 的修长轮廓出发，<br/>看可爱如何被描绘，<br/>看不同的画法如何并行。</p><a class="primary-link" href="/timeline/">翻开时间轴 <span>↗</span></a></div></div>
     <div class="film-strip">{featured.map(([id,year,name],i)=><a class="film-frame" href={`/works/${id}/`}><Artwork id={id} eager compact/><div class="film-caption"><span>{year}</span><span>{name}</span></div><span class="frame-number">FIG. 0{i+1}</span></a>)}</div>
     <div class="hero-foot"><span>不是一条直线，而是不断分岔的视觉传统。</span><span>30 年 / 120 件样本 / 6 个时期</span></div>
   </section>
